@@ -71,30 +71,6 @@
         "json_name": "SBS"
     },
     {
-        "channelid": "P02",
-        "channelnm": "MBC 저화질",
-        "channelimg": "https://backup.760515.xyz/logo/MBC.png",
-        "ott": "pjy",
-        "genrenm": "지상파",
-        "channelurl": "https://backup.760515.xyz/playlist/MBC-playlist.m3u8"
-    },
-    {
-        "channelid": "P03",
-        "channelnm": "KBS1 저화질",
-        "channelimg": "https://backup.760515.xyz/logo/KBS1.png",
-        "ott": "pjy",
-        "genrenm": "지상파",
-        "channelurl": "https://backup.760515.xyz/playlist/KBS1-playlist.m3u8"
-    },
-    {
-        "channelid": "P04",
-        "channelnm": "KBS2 저화질",
-        "channelimg": "https://backup.760515.xyz/logo/KBS2.png",
-        "ott": "pjy",
-        "genrenm": "지상파",
-        "channelurl": "https://backup.760515.xyz/playlist/KBS2-playlist.m3u8"
-    },
-    {
         "channelid": "C00551",
         "channelnm": "tvN",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0104/C00551.png",

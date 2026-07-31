@@ -1,0 +1,1639 @@
+[
+    {
+        "channelid": "M01",
+        "channelnm": "MBC",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/M01.jpg",
+        "ott": "wavve",
+        "genrenm": "지상파"
+    },
+    {
+        "channelid": "K01",
+        "channelnm": "KBS 1TV",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/KBS-1TV-1.jpg",
+        "ott": "wavve",
+        "genrenm": "지상파"
+    },
+    {
+        "channelid": "K02",
+        "channelnm": "KBS 2TV",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/KBS-2TV-1.jpg",
+        "ott": "wavve",
+        "genrenm": "지상파"
+    },
+    {
+        "channelid": "E01",
+        "channelnm": "EBS 1",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/E01.jpg",
+        "ott": "wavve",
+        "genrenm": "지상파"
+    },
+    {
+        "channelid": "C00772",
+        "channelnm": "EBS1",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0504/C00772.png",
+        "ott": "tving",
+        "genrenm": "지상파"
+    },
+    {
+        "channelid": "E07",
+        "channelnm": "EBS 2",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/E07.jpg",
+        "ott": "wavve",
+        "genrenm": "지상파"
+    },
+    {
+        "channelid": "C00711",
+        "channelnm": "MBC",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260112/2353/C00711.png",
+        "ott": "tving",
+        "genrenm": "지상파"
+    },
+    {
+        "channelid": "C00709",
+        "channelnm": "KBS1",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250908/0723/C00709.png",
+        "ott": "tving",
+        "genrenm": "지상파"
+    },
+    {
+        "channelid": "C00710",
+        "channelnm": "KBS2",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250908/0722/C00710.png",
+        "ott": "tving",
+        "genrenm": "지상파"
+    },
+    {
+        "channelid": "S01",
+        "channelnm": "SBS",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "지상파",
+        "json_name": "SBS"
+    },
+    {
+        "channelid": "P02",
+        "channelnm": "MBC 저화질",
+        "channelimg": "https://backup.760515.xyz/logo/MBC.png",
+        "ott": "pjy",
+        "genrenm": "지상파",
+        "channelurl": "https://backup.760515.xyz/playlist/MBC-playlist.m3u8"
+    },
+    {
+        "channelid": "P03",
+        "channelnm": "KBS1 저화질",
+        "channelimg": "https://backup.760515.xyz/logo/KBS1.png",
+        "ott": "pjy",
+        "genrenm": "지상파",
+        "channelurl": "https://backup.760515.xyz/playlist/KBS1-playlist.m3u8"
+    },
+    {
+        "channelid": "P04",
+        "channelnm": "KBS2 저화질",
+        "channelimg": "https://backup.760515.xyz/logo/KBS2.png",
+        "ott": "pjy",
+        "genrenm": "지상파",
+        "channelurl": "https://backup.760515.xyz/playlist/KBS2-playlist.m3u8"
+    },
+    {
+        "channelid": "C00551",
+        "channelnm": "tvN",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0104/C00551.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2601",
+        "channelnm": "TV CHOSUN",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/C2601_Img_20210612162051.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C01581",
+        "channelnm": "TV CHOSUN",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0501/C01581.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2602",
+        "channelnm": "TV CHOSUN2",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/C2602_Img_20210608164002.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C00585",
+        "channelnm": "TV CHOSUN 2",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0102/C00585.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2501",
+        "channelnm": "채널A",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2501_main_20240723141822.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C01583",
+        "channelnm": "채널A",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0921/C01583.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2502",
+        "channelnm": "채널A 플러스",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2502_main_20241230112314.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C17141",
+        "channelnm": "채널A플러스",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241229/1456/C17141.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52470",
+        "channelnm": "채널A NEWS",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260630/0032/C52470.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52389",
+        "channelnm": "MBC 뉴스",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260510/2346/C52389.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2101",
+        "channelnm": "YTN",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C2101.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C00593",
+        "channelnm": "YTN",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0101/C00593.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C01101",
+        "channelnm": "YTN2",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0055/C01101.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "Y01",
+        "channelnm": "연합뉴스TV",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/Y01.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C01723",
+        "channelnm": "연합뉴스TV",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0500/C01723.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2311",
+        "channelnm": "JTBC",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2311_main_20250901165429.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C01582",
+        "channelnm": "JTBC",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0428/C01582.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C15741",
+        "channelnm": "JTBC2",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0503/C15741.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C22041",
+        "channelnm": "JTBC4",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0503/C22041.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2401",
+        "channelnm": "MBN",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/C2401_Img_20191125101746.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C00708",
+        "channelnm": "MBN",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0448/C00708.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2413",
+        "channelnm": "MBN NEWS",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52349",
+        "channelnm": "MBN NEWS",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250804/0543/C52349.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2605",
+        "channelnm": "TV조선 라이브 뉴스 24시",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52302",
+        "channelnm": "TV CHOSUN NEWS24",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250610/0102/C52302.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "S27",
+        "channelnm": "SBS No.1 뉴스라이브",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52348",
+        "channelnm": "SBS No.1 뉴스라이브",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250730/0156/C52348.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "S29",
+        "channelnm": "SBS No.1 뉴스라이브",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "종편/보도",
+        "json_name": ""
+    },
+    {
+        "channelid": "S06",
+        "channelnm": "SBS BIZ",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "종편/보도",
+        "json_name": "CNBC"
+    },
+    {
+        "channelid": "S06",
+        "channelnm": "SBS Biz",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/S06_Img_20201229154431.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C15846",
+        "channelnm": "SBS Biz",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251211/0114/C15846.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "K38",
+        "channelnm": "KBS NEWS 24",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K38_main_20250902133358.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52286",
+        "channelnm": "KBS NEWS 24",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250317/0521/C52286.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2312",
+        "channelnm": "JTBC NEWS NOW",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2312_main_20250901180024.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52328",
+        "channelnm": "JTBC news NOW",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250630/1053/C52328.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52300",
+        "channelnm": "JTBC news 아카이브",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250526/0032/C52300.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "K25",
+        "channelnm": "CGTN",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/CGTN-1.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "K12",
+        "channelnm": "CCTV4",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/K12.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "F2101",
+        "channelnm": "한국경제TV",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F2101_Img_20201013140748.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C00595",
+        "channelnm": "한국경제TV",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251210/0019/C00595.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "F2001",
+        "channelnm": "매일경제TV",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F2001_Img_20201117230801.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C03801",
+        "channelnm": "매일경제TV",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251211/0633/C03801.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "F4301",
+        "channelnm": "머니투데이방송",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F4301_Img_20210818232937.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52407",
+        "channelnm": "머니투데이방송",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260119/2335/C52407.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "J6301",
+        "channelnm": "서울경제TV",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "J6401",
+        "channelnm": "이데일리TV",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "J5101",
+        "channelnm": "헬로tv뉴스",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C15347",
+        "channelnm": "YTN사이언스",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241113/0020/C15347.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C17341",
+        "channelnm": "히스토리",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0922/C17341.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C07381",
+        "channelnm": "OCN",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0042/C07381.png",
+        "ott": "tving",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "C04601",
+        "channelnm": "OCN Movies",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0045/C04601.png",
+        "ott": "tving",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "C07382",
+        "channelnm": "OCN Movies2",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0931/C07382.png",
+        "ott": "tving",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "H01",
+        "channelnm": "PLAYY 웰메이드 영화",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/H01.jpg",
+        "ott": "wavve",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "H02",
+        "channelnm": "PLAYY 프리미엄 영화",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/H02.jpg",
+        "ott": "wavve",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "H07",
+        "channelnm": "PLAYY 액션영화",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/H07.jpg",
+        "ott": "wavve",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "F2501",
+        "channelnm": "THE MOVIE",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F2501_Img_20201127183840.jpg",
+        "ott": "wavve",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "H05",
+        "channelnm": "시네마천국",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/H05_Img_20201127184140.jpg",
+        "ott": "wavve",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "F2601",
+        "channelnm": "씨네트리",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/F2601_main_20250428184004.jpg",
+        "ott": "wavve",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "F1221",
+        "channelnm": "Original 영화",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/F1221_main_20250826140922.jpg",
+        "ott": "wavve",
+        "genrenm": "영화"
+    },
+    {
+        "channelid": "C4401",
+        "channelnm": "ANIBOX",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C4401.jpg",
+        "ott": "wavve",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "C05441",
+        "channelnm": "ANIBOX",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0044/C05441.png",
+        "ott": "tving",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "C4402",
+        "channelnm": "ANIONE",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/ANIONE.jpg",
+        "ott": "wavve",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "A01",
+        "channelnm": "ANIMAX",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/A01.jpg",
+        "ott": "wavve",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "C04042",
+        "channelnm": "애니맥스",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0046/C04042.png",
+        "ott": "tving",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "C6102",
+        "channelnm": "애니플러스",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C6102_main_20250826140912.jpg",
+        "ott": "wavve",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "C00901",
+        "channelnm": "애니플러스",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0920/C00901.png",
+        "ott": "tving",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "J2801",
+        "channelnm": "CARTOONITO",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J2801_main_20241219133111.jpg",
+        "ott": "wavve",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "C6802",
+        "channelnm": "브라보키즈",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/C6802_Img_20200826082858.jpg",
+        "ott": "wavve",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "E05",
+        "channelnm": "EBS 키즈",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/E05.jpg",
+        "ott": "wavve",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "C06941",
+        "channelnm": "투니버스",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0043/C06941.png",
+        "ott": "tving",
+        "genrenm": "애니/키즈"
+    },
+    {
+        "channelid": "C00579",
+        "channelnm": "Mnet",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0440/C00579.png",
+        "ott": "tving",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "M02",
+        "channelnm": "MBC Drama",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/M02.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "M03",
+        "channelnm": "MBC Every1",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/M03.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "X01",
+        "channelnm": "EDGETV",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/X01_Img_20191001110604.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "X02",
+        "channelnm": "FUNTV",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/X02_Img_20191001110820.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "F6301",
+        "channelnm": "k-star",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F6301_Img_20220411141732.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "K06",
+        "channelnm": "KBS DRAMA",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/K06.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "K04",
+        "channelnm": "KBS JOY",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/K04.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "M14",
+        "channelnm": "MBC ON",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/M14_Img_20200611005554.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "K05",
+        "channelnm": "KBS Life",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/K05_Img_20210401135119.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "J1702",
+        "channelnm": "The M",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J1702_main_20250514103114.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "M06",
+        "channelnm": "MBC M",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/M06_Img_20200218143229.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "K09",
+        "channelnm": "KBS Story",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/K09_Img_20210401135323.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "C2402",
+        "channelnm": "MBN 플러스",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/C2402_Img_20191125102051.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "C17142",
+        "channelnm": "MBN 플러스",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0038/C17142.png",
+        "ott": "tving",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "F5601",
+        "channelnm": "TVasia Plus",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F5601_Img_20220204173048.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "S03",
+        "channelnm": "SBS Plus",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "드라마/예능",
+        "json_name": "Plus"
+    },
+    {
+        "channelid": "S04",
+        "channelnm": "SBS funE",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "드라마/예능",
+        "json_name": "ETV"
+    },
+    {
+        "channelid": "S11",
+        "channelnm": "SBS Life",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "드라마/예능",
+        "json_name": "Fil"
+    },
+    {
+        "channelid": "C8101",
+        "channelnm": "위라이크",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/C8101_Img_20221104141737.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "F5602",
+        "channelnm": "SmileTV Plus",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F5602_Img_20220204173351.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "C01141",
+        "channelnm": "tvN SHOW",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0939/C01141.png",
+        "ott": "tving",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "C01143",
+        "channelnm": "tvN DRAMA",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0054/C01143.png",
+        "ott": "tving",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "C51258",
+        "channelnm": "tvN STORY",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0034/C51258.png",
+        "ott": "tving",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "M37",
+        "channelnm": "MBC 라디오 예능",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/M37_main_20250910163652.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "C52379",
+        "channelnm": "MBC 라디오 예능",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0825/C52379.png",
+        "ott": "tving",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "S14",
+        "channelnm": "THE K-POP",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/S14_Img_20210609181002.jpg",
+        "ott": "wavve",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "S20",
+        "channelnm": "K POP",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "드라마/예능",
+        "json_name": ""
+    },
+    {
+        "channelid": "C00611",
+        "channelnm": "LIFETIME",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0100/C00611.png",
+        "ott": "tving",
+        "genrenm": "드라마/예능"
+    },
+    {
+        "channelid": "9",
+        "channelnm": "SPOTV",
+        "channelimg": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png",
+        "ott": "spotv",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "10",
+        "channelnm": "SPOTV2",
+        "channelimg": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/55509fff870629e4db8865ed79988c56.png",
+        "ott": "spotv",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "1",
+        "channelnm": "SPOTV PRIME",
+        "channelimg": "https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png",
+        "ott": "spotv",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "2",
+        "channelnm": "SPOTV PRIME2",
+        "channelimg": "https://cdn.spotvnow.co.kr/src/upload/image/20240304/8b3a24e8f2e7e5a5d591d94e1420990d.png",
+        "ott": "spotv",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "15",
+        "channelnm": "SPOTV PRIME+",
+        "channelimg": "https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png",
+        "ott": "spotv",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "S29",
+        "channelnm": "Wavve Golf 1",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S29_main_20260413100555.jpg",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "J4501",
+        "channelnm": "바둑TV",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "J3901",
+        "channelnm": "BallTV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J3901_main_20250617172114.jpg",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "J3903",
+        "channelnm": "K sports TV",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "F9901",
+        "channelnm": "OGN",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F9901_Img_20230926133826.jpg",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "S30",
+        "channelnm": "Wavve Golf 2",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S30_main_20260413100525.jpg",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "J3904",
+        "channelnm": "아시안투어 LIVE",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J3904_main_20260608165645.jpg",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "C51404",
+        "channelnm": "tvN SPORTS",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0031/C51404.png",
+        "ott": "tving",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "S02",
+        "channelnm": "SBS Sports",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "스포츠",
+        "json_name": "ESPN"
+    },
+    {
+        "channelid": "S05",
+        "channelnm": "SBS Golf",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "스포츠",
+        "json_name": "Golf"
+    },
+    {
+        "channelid": "S12",
+        "channelnm": "SBS Golf2",
+        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
+        "ott": "bc_sbs",
+        "genrenm": "스포츠",
+        "json_name": "Golf2"
+    },
+    {
+        "channelid": "M36",
+        "channelnm": "MBC 라디오 시사",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/M36_main_20250910163620.jpg",
+        "ott": "wavve",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "C52299",
+        "channelnm": "MBC 라디오 시사",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250513/0940/C52299.png",
+        "ott": "tving",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "F3301",
+        "channelnm": "국회방송",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F3301_Img_20210630145022.jpg",
+        "ott": "wavve",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "C51263",
+        "channelnm": "국회방송(NATV)",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0033/C51263.png",
+        "ott": "tving",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "J5001",
+        "channelnm": "KNN",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "C5501",
+        "channelnm": "채널J",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C5501.jpg",
+        "ott": "wavve",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "C8401",
+        "channelnm": "채널차이나",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/Channel_China-1.jpg",
+        "ott": "wavve",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "J4901",
+        "channelnm": "JTV",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "J2802",
+        "channelnm": "CNN International",
+        "channelimg": "",
+        "ott": "wavve",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "C00544",
+        "channelnm": "중화TV",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0432/C00544.png",
+        "ott": "tving",
+        "genrenm": "시사/교양"
+    },
+    {
+        "channelid": "C5601",
+        "channelnm": "롯데홈쇼핑",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/lotte-1.png",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C5602",
+        "channelnm": "롯데홈쇼핑 ONETV",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/C5602_Img_20191230135745.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C4101",
+        "channelnm": "현대홈쇼핑",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C4101.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C4201",
+        "channelnm": "GS SHOP",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C4201.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "F2701",
+        "channelnm": "SK스토아",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F2701_Img_20210308162242.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "F6901",
+        "channelnm": "공영홈쇼핑",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F6901_Img_20220610155951.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C8302",
+        "channelnm": "NS SHOP+",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/nsshopplus-1.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C4202",
+        "channelnm": "GS MY SHOP",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C4202.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C3515",
+        "channelnm": "CJ ONSTYLE",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3515_main_20250408185045.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C00601",
+        "channelnm": "CJ 온스타일+",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260318/0800/C00601.png",
+        "ott": "tving",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C3516",
+        "channelnm": "CJ ONSTYLE PLUS",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3516_main_20250408185152.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "F1401",
+        "channelnm": "KT알파 쇼핑",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/F1401_Img_20220531162338.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C4102",
+        "channelnm": "현대홈쇼핑+샵",
+        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C4101.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C8301",
+        "channelnm": "NS홈쇼핑",
+        "channelimg": "image.wavve.com/BMS/Channelimage30/image/NShomeshopping-1.jpg",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "K07",
+        "channelnm": "KBS1RADIO",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K07_main_20250826141330.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2701",
+        "channelnm": "KISS - 최신인기가요",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2701_main_20250826141153.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2713",
+        "channelnm": "KISS - 탑골 K-POP",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2713_main_20250826141320.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2702",
+        "channelnm": "KISS - 당신의 발라드",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2702_main_20251031132031.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "K08",
+        "channelnm": "KBSCOOLFM",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K08_main_20250826141339.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "M08",
+        "channelnm": "MBC FM4U",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/M08_main_20250826141358.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "M07",
+        "channelnm": "MBC 표준 FM",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/M07_main_20250826141348.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "J6602",
+        "channelnm": "CBS 음악FM",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J6602_main_20260630143818.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2703",
+        "channelnm": "KISS - 응답하라 7080",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2703_main_20251031132135.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2705",
+        "channelnm": "KISS - 2010년대 가요",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2705_main_20251031132157.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2710",
+        "channelnm": "KISS - 키스 인기 트로트",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2710_main_20251031132114.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2709",
+        "channelnm": "KISS - 듣기 편한 팝",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2709_main_20251031132052.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2706",
+        "channelnm": "KISS - 재즈 라운지",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2706_main_20250826141241.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2708",
+        "channelnm": "KISS - 클래식 산책",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2708_main_20250826141252.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "F9501",
+        "channelnm": "W Music Story - HOT! K_POP Music",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/F9501_main_20250826141634.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "F9504",
+        "channelnm": "W Music Story - HOT! POP Music",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/F9504_main_20250826141710.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "F9502",
+        "channelnm": "W Music Story - Hot! Remix Music",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/F9502_main_20250826141648.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "F9503",
+        "channelnm": "W Music Story - Ambient Music",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/F9503_main_20250826141701.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C2107",
+        "channelnm": "YTN 라디오",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2107_main_20250826141139.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "J6601",
+        "channelnm": "CBS 표준FM",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J6601_main_20260630143840.jpg",
+        "ott": "wavve",
+        "genrenm": "라디오/음악"
+    },
+    {
+        "channelid": "C52420",
+        "channelnm": "MBC 무한도전",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260119/2339/C52420.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "PM1",
+        "channelnm": "무한도전",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/PM1_main_20250826140236.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "PM2",
+        "channelnm": "나 혼자 산다",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/PM2_main_20260115181550.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52421",
+        "channelnm": "MBC 나 혼자 산다",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260119/2339/C52421.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C5202",
+        "channelnm": "iHQ 맛있는녀석들",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C5202_main_20250826140533.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "K31",
+        "channelnm": "KBS 사랑과전쟁",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K31_main_20250826140221.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52380",
+        "channelnm": "KBS 사랑과 전쟁",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0821/C52380.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "K15",
+        "channelnm": "KBS 1박 2일",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K15_main_20260616175723.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52381",
+        "channelnm": "KBS 1박 2일",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0822/C52381.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "M12",
+        "channelnm": "전지적 참견 시점",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/M12_main_20260630100437.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52475",
+        "channelnm": "MBC 전지적 참견 시점",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260623/0156/C52475.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "M13",
+        "channelnm": "놀면 뭐하니",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/M13_main_20260630111104.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52474",
+        "channelnm": "MBC 놀면 뭐하니",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260623/0156/C52474.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C2412",
+        "channelnm": "MBN 실제상황",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2412_main_20250826140609.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "M15",
+        "channelnm": "거침없이 하이킥",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/M15_main_20260630110029.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52473",
+        "channelnm": "MBC 거침없이 하이킥",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260623/0156/C52473.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "M16",
+        "channelnm": "심야괴담회",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/M16_main_20260630112510.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52476",
+        "channelnm": "MBC 심야괴담회",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260623/0156/C52476.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3524",
+        "channelnm": "도깨비",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3524_main_20260707134845.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3525",
+        "channelnm": "철인왕후",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3525_main_20260707135008.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "K29",
+        "channelnm": "KBS 사극",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K29_main_20250826140725.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52367",
+        "channelnm": "KBS 사극",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0033/C52367.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "K30",
+        "channelnm": "KBS 주말명작",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K30_main_20250826140739.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52368",
+        "channelnm": "KBS 주말드라마 명작",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0053/C52368.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3521",
+        "channelnm": "호텔 델루나",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3521_main_20260707134333.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3538",
+        "channelnm": "텐트 밖은 유럽",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3538_main_20260722213220.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3540",
+        "channelnm": "텐트 밖은 유럽: 로맨틱 이탈리아",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3540_main_20260722214249.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3539",
+        "channelnm": "텐트 밖은 유럽: 노르웨이",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3539_main_20260722214117.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "K28",
+        "channelnm": "연애의 참견",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K28_main_20250826140207.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "K37",
+        "channelnm": "KBS 인간극장",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K37_main_20250826140152.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3522",
+        "channelnm": "나의 아저씨",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3522_main_20260707134444.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "K36",
+        "channelnm": "KBS 역사저널 그날",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/K36_main_20250826140133.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3534",
+        "channelnm": "식스센스: 시티투어",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3534_main_20260722212615.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3535",
+        "channelnm": "식스센스: 시티투어2",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3535_main_20260722212804.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3532",
+        "channelnm": "식스센스 시즌1",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3532_main_20260722211856.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3533",
+        "channelnm": "식스센스 시즌2",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3533_main_20260722212104.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "M17",
+        "channelnm": "오은영리포트 결혼지옥",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/M17_main_20260630112651.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52477",
+        "channelnm": "MBC 오은영리포트 결혼지옥",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260623/0156/C52477.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "S28",
+        "channelnm": "나는솔로",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S28_main_20251014105840.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3526",
+        "channelnm": "미씽: 그들이 있었다2",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3526_main_20260707135208.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3528",
+        "channelnm": "대탈출 시즌1",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3528_main_20260722112147.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3529",
+        "channelnm": "대탈출 시즌2",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3529_main_20260722113126.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3530",
+        "channelnm": "대탈출 시즌3",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3530_main_20260722211719.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3531",
+        "channelnm": "대탈출 시즌4",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3531_main_20260722211641.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C2603",
+        "channelnm": "TV CHOSUN 미스쓰리랑",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2603_main_20250911144739.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C5203",
+        "channelnm": "iHQ 뚱TV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C5203_main_20250826140900.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3523",
+        "channelnm": "검색어를 입력하세요 WWW",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3523_main_20260707134703.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C2411",
+        "channelnm": "MBN 특종세상",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2411_main_20250826140558.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3536",
+        "channelnm": "무쇠소녀단 시즌1",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3536_main_20260722212928.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3537",
+        "channelnm": "무쇠소녀단 시즌2",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3537_main_20260722213053.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3527",
+        "channelnm": "소용없어 거짓말",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3527_main_20260707135344.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "F1214",
+        "channelnm": "Original 피의게임",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/F1214_main_20250826140700.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "F0102",
+        "channelnm": "포켓몬스터",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/F0102_main_20250826140648.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C5702",
+        "channelnm": "E채널 토요일은 밥이 좋아",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C5702_main_20250826140546.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C2604",
+        "channelnm": "TV CHOSUN 생존왕",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2604_main_20250911135719.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "F1222",
+        "channelnm": "Wavve에서 오늘 뭐보지",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/F1222_main_20250916101524.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52366",
+        "channelnm": "KBS 역사저널 그날",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0739/C52366.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52365",
+        "channelnm": "KBS 인간극장",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0053/C52365.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C51851",
+        "channelnm": "2026 KBO 리그",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260713/0103/C51851.png",
+        "ott": "tving",
+        "genrenm": "-"
+    }
+]

@@ -9,9 +9,9 @@
 					{ "C00709.tving" : { "channelnm" : "KBS1",                 "genre" : "지상파" } },
 					{ "C00710.tving" : { "channelnm" : "KBS2",                 "genre" : "지상파" } },
 					{ "S01.bc_sbs"   : { "channelnm" : "SBS",                  "genre" : "지상파",      "json_name" : "SBS" } },
-					{ 'P02.pjy'      : { 'channelnm' : 'MBC 저화질' ,           "genre" : "지상파" } },
-					{ 'P03.pjy'      : { 'channelnm' : 'KBS1 저화질',           "genre" : "지상파" } },
-					{ 'P04.pjy'      : { 'channelnm' : 'KBS2 저화질',           "genre" : "지상파" } },
+					{ "P02.pjy"      : { "channelnm" : "MBC 저화질" ,           "genre" : "지상파" } },
+					{ "P03.pjy"      : { "channelnm" : "KBS1 저화질",           "genre" : "지상파" } },
+					{ "P04.pjy"      : { "channelnm" : "KBS2 저화질",           "genre" : "지상파" } },
 
 					{ "C00551.tving" : { "channelnm" : "tvN",                  "genre" : "종편/보도" } },
 					{ "C2601.wavve"  : { "channelnm" : "TV CHOSUN",            "genre" : "종편/보도" } },

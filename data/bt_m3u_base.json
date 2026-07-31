@@ -1308,6 +1308,13 @@
         "genrenm": "정주행 채널"
     },
     {
+        "channelid": "C52474",
+        "channelnm": "MBC 놀면 뭐하니",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260623/0156/C52474.png",
+        "ott": "tving",
+        "genrenm": "정주행 채널"
+    },
+    {
         "channelid": "C2412",
         "channelnm": "MBN 실제상황",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C2412_main_20250826140609.jpg",
@@ -1473,6 +1480,13 @@
         "channelnm": "오은영리포트 결혼지옥",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/M17_main_20260630112651.jpg",
         "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52477",
+        "channelnm": "MBC 오은영리포트 결혼지옥",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260623/0156/C52477.png",
+        "ott": "tving",
         "genrenm": "정주행 채널"
     },
     {

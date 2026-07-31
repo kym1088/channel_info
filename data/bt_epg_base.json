@@ -82088,197 +82088,6 @@
             "ott": "tving"
         }
     ],
-    "C00708.tving": [
-        {
-            "channelid": "C00708",
-            "title": "천기누설",
-            "startTime": "20260731201000",
-            "endTime": "20260731211000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "전현무계획 4 1부",
-            "startTime": "20260731211000",
-            "endTime": "20260731215000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "전현무계획 4 2부",
-            "startTime": "20260731215000",
-            "endTime": "20260731225000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "내가 만난 사이코패스",
-            "startTime": "20260731225000",
-            "endTime": "20260801000000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "소나무",
-            "startTime": "20260801000000",
-            "endTime": "20260801010000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "알토란",
-            "startTime": "20260801010000",
-            "endTime": "20260801020000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "[MBN 스페셜 다큐]더 매직 쇼: 펜과 텔러를 속여라",
-            "startTime": "20260801020000",
-            "endTime": "20260801025000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "[MBN 스페셜 다큐]더 매직 쇼: 펜과 텔러를 속여라",
-            "startTime": "20260801025000",
-            "endTime": "20260801034000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "알토란 스페셜",
-            "startTime": "20260801034000",
-            "endTime": "20260801060000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "휴먼다큐 사노라면",
-            "startTime": "20260801060000",
-            "endTime": "20260801065000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "가화만사성",
-            "startTime": "20260801065000",
-            "endTime": "20260801074000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "특집다큐H 질병을 이기는 힘, 면역력을 높여라",
-            "startTime": "20260801074000",
-            "endTime": "20260801084000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "기가빌더",
-            "startTime": "20260801084000",
-            "endTime": "20260801091000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "기가빌더",
-            "startTime": "20260801091000",
-            "endTime": "20260801094000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "당신이 아픈 사이",
-            "startTime": "20260801094000",
-            "endTime": "20260801104000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "휴먼다큐 사노라면",
-            "startTime": "20260801104000",
-            "endTime": "20260801113000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "나는 자연인이다",
-            "startTime": "20260801113000",
-            "endTime": "20260801124000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "특종세상",
-            "startTime": "20260801124000",
-            "endTime": "20260801135000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "속풀이쇼 동치미",
-            "startTime": "20260801135000",
-            "endTime": "20260801153000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "MBN 토요 와이드",
-            "startTime": "20260801153000",
-            "endTime": "20260801170000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "건강한 썰 주은네 사랑채",
-            "startTime": "20260801170000",
-            "endTime": "20260801180000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "김주하의 데이앤나잇",
-            "startTime": "20260801180000",
-            "endTime": "20260801190000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "전설의 사내 1부",
-            "startTime": "20260801190000",
-            "endTime": "20260801193000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "MBN 뉴스센터",
-            "startTime": "20260801193000",
-            "endTime": "20260801202000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "전설의 사내 2부",
-            "startTime": "20260801202000",
-            "endTime": "20260801214000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "김주하의 데이앤나잇",
-            "startTime": "20260801214000",
-            "endTime": "20260801230000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00708",
-            "title": "속풀이쇼 동치미 1부",
-            "startTime": "20260801230000",
-            "endTime": "20260802000000",
-            "ott": "tving"
-        }
-    ],
     "C01581.tving": [
         {
             "channelid": "C01581",
@@ -82887,463 +82696,6 @@
             "ott": "tving"
         }
     ],
-    "C04042.tving": [
-        {
-            "channelid": "C04042",
-            "title": "뚜식이10",
-            "startTime": "20260731210000",
-            "endTime": "20260731212300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "뚜식이10",
-            "startTime": "20260731212300",
-            "endTime": "20260731220000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "귀멸의 칼날(한국어 더빙)",
-            "startTime": "20260731220000",
-            "endTime": "20260731222400",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "귀멸의 칼날(한국어 더빙)",
-            "startTime": "20260731222400",
-            "endTime": "20260731225900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "귀멸의 칼날(한국어 더빙)",
-            "startTime": "20260731225900",
-            "endTime": "20260731232300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "귀멸의 칼날(한국어 더빙)",
-            "startTime": "20260731232300",
-            "endTime": "20260801000000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "도굴왕(자막)",
-            "startTime": "20260801000000",
-            "endTime": "20260801003000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "여기는 내게 맡기고 먼저 가라고 말한 지 10년이 지났더니 전설이 되어 있었다",
-            "startTime": "20260801003000",
-            "endTime": "20260801010200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "유녀전기 2",
-            "startTime": "20260801010200",
-            "endTime": "20260801013000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "여성향 게임 세계는 모브에게 가혹한 세계입니다2",
-            "startTime": "20260801013000",
-            "endTime": "20260801020100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "Re:제로부터 시작하는 이세계 생활3",
-            "startTime": "20260801020100",
-            "endTime": "20260801023000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "Re:제로부터 시작하는 이세계 생활3",
-            "startTime": "20260801023000",
-            "endTime": "20260801030000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "Re:제로부터 시작하는 이세계 생활3",
-            "startTime": "20260801030000",
-            "endTime": "20260801032300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "Re:제로부터 시작하는 이세계 생활3",
-            "startTime": "20260801032300",
-            "endTime": "20260801035500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "아이돌 마스터 샤이니 컬러즈2",
-            "startTime": "20260801035500",
-            "endTime": "20260801041900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "아이돌 마스터 샤이니 컬러즈2",
-            "startTime": "20260801041900",
-            "endTime": "20260801044600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "아이돌 마스터 샤이니 컬러즈2",
-            "startTime": "20260801044600",
-            "endTime": "20260801051000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "아이돌 마스터 샤이니 컬러즈2",
-            "startTime": "20260801051000",
-            "endTime": "20260801053700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "닌자고: 드래곤 라이징",
-            "startTime": "20260801053700",
-            "endTime": "20260801060300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "로보카 폴리 3",
-            "startTime": "20260801060300",
-            "endTime": "20260801061400",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "로보카 폴리 3",
-            "startTime": "20260801061400",
-            "endTime": "20260801063000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "레고 드림즈 part2",
-            "startTime": "20260801063000",
-            "endTime": "20260801064100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "레고 드림즈 part2",
-            "startTime": "20260801064100",
-            "endTime": "20260801070000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "시크릿 쥬쥬: 별의 보석2",
-            "startTime": "20260801070000",
-            "endTime": "20260801071100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "시크릿 쥬쥬: 별의 보석2",
-            "startTime": "20260801071100",
-            "endTime": "20260801072800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "파워레인저 애니멀포스 친구들",
-            "startTime": "20260801072800",
-            "endTime": "20260801080000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "푸먹",
-            "startTime": "20260801080000",
-            "endTime": "20260801082100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "푸먹",
-            "startTime": "20260801082100",
-            "endTime": "20260801090000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "푸먹",
-            "startTime": "20260801090000",
-            "endTime": "20260801092500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "푸먹",
-            "startTime": "20260801092500",
-            "endTime": "20260801100000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "슈크림 토끼 슈야",
-            "startTime": "20260801100000",
-            "endTime": "20260801101000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "슈크림 토끼 슈야",
-            "startTime": "20260801101000",
-            "endTime": "20260801102100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "슈크림 토끼 슈야",
-            "startTime": "20260801102100",
-            "endTime": "20260801103500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "슈크림 토끼 슈야",
-            "startTime": "20260801103500",
-            "endTime": "20260801110000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "슈크림 토끼 슈야",
-            "startTime": "20260801110000",
-            "endTime": "20260801111000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "슈크림 토끼 슈야",
-            "startTime": "20260801111000",
-            "endTime": "20260801112400",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "슈크림 토끼 슈야",
-            "startTime": "20260801112400",
-            "endTime": "20260801113900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "슈크림 토끼 슈야",
-            "startTime": "20260801113900",
-            "endTime": "20260801120000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "백앤아: 고고프렌즈5",
-            "startTime": "20260801120000",
-            "endTime": "20260801122400",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "백앤아: 고고프렌즈5",
-            "startTime": "20260801122400",
-            "endTime": "20260801124600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "백앤아: 고고프렌즈5",
-            "startTime": "20260801124600",
-            "endTime": "20260801133000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "뚜식이10",
-            "startTime": "20260801133000",
-            "endTime": "20260801135200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "뚜식이10",
-            "startTime": "20260801135200",
-            "endTime": "20260801141700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "뚜식이10",
-            "startTime": "20260801141700",
-            "endTime": "20260801145900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "뚜식이 특별편: 뽕짜작 뽕짝",
-            "startTime": "20260801145900",
-            "endTime": "20260801155900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "빨간내복 야코",
-            "startTime": "20260801155900",
-            "endTime": "20260801161100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "빨간내복 야코",
-            "startTime": "20260801161100",
-            "endTime": "20260801162300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "빨간내복 야코",
-            "startTime": "20260801162300",
-            "endTime": "20260801163500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "빨간내복 야코",
-            "startTime": "20260801163500",
-            "endTime": "20260801170000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "빨간내복 야코",
-            "startTime": "20260801170000",
-            "endTime": "20260801171100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "빨간내복 야코",
-            "startTime": "20260801171100",
-            "endTime": "20260801172400",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "빨간내복 야코",
-            "startTime": "20260801172400",
-            "endTime": "20260801173600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "빨간내복 야코",
-            "startTime": "20260801173600",
-            "endTime": "20260801175900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "원픽은, 흔한남매4",
-            "startTime": "20260801175900",
-            "endTime": "20260801181800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "원픽은, 흔한남매4",
-            "startTime": "20260801181800",
-            "endTime": "20260801185800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "원픽은, 흔한남매4",
-            "startTime": "20260801185800",
-            "endTime": "20260801191700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "원픽은, 흔한남매4",
-            "startTime": "20260801191700",
-            "endTime": "20260801200000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "총몇명 클래식",
-            "startTime": "20260801200000",
-            "endTime": "20260801202400",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "총몇명 클래식",
-            "startTime": "20260801202400",
-            "endTime": "20260801210000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "총몇명 클래식",
-            "startTime": "20260801210000",
-            "endTime": "20260801212100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "총몇명 클래식",
-            "startTime": "20260801212100",
-            "endTime": "20260801220000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "귀멸의 칼날(한국어 더빙)",
-            "startTime": "20260801220000",
-            "endTime": "20260801222400",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "귀멸의 칼날(한국어 더빙)",
-            "startTime": "20260801222400",
-            "endTime": "20260801225900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "귀멸의 칼날: 무한열차 편(더빙)",
-            "startTime": "20260801225900",
-            "endTime": "20260801232600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04042",
-            "title": "귀멸의 칼날: 무한열차 편(더빙)",
-            "startTime": "20260801232600",
-            "endTime": "20260802000000",
-            "ott": "tving"
-        }
-    ],
     "C52381.tving": [
         {
             "channelid": "C52381",
@@ -83719,6 +83071,190 @@
             "ott": "tving"
         }
     ],
+    "C52368.tving": [
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 23회",
+            "startTime": "20260731202600",
+            "endTime": "20260731213000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 24회",
+            "startTime": "20260731213000",
+            "endTime": "20260731223300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 25회",
+            "startTime": "20260731223300",
+            "endTime": "20260731233700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 26회",
+            "startTime": "20260731233700",
+            "endTime": "20260801003900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 27회",
+            "startTime": "20260801003900",
+            "endTime": "20260801014300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 28회",
+            "startTime": "20260801014300",
+            "endTime": "20260801024700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 29회",
+            "startTime": "20260801024700",
+            "endTime": "20260801035000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 30회",
+            "startTime": "20260801035000",
+            "endTime": "20260801045200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 31회",
+            "startTime": "20260801045200",
+            "endTime": "20260801055600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 32회",
+            "startTime": "20260801055600",
+            "endTime": "20260801065900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 33회",
+            "startTime": "20260801065900",
+            "endTime": "20260801080400",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 34회",
+            "startTime": "20260801080400",
+            "endTime": "20260801090700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 35회",
+            "startTime": "20260801090700",
+            "endTime": "20260801101100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 36회",
+            "startTime": "20260801101100",
+            "endTime": "20260801111400",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 37회",
+            "startTime": "20260801111400",
+            "endTime": "20260801121700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 38회",
+            "startTime": "20260801121700",
+            "endTime": "20260801132100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 39회",
+            "startTime": "20260801132100",
+            "endTime": "20260801142500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 40회",
+            "startTime": "20260801142500",
+            "endTime": "20260801152800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 41회",
+            "startTime": "20260801152800",
+            "endTime": "20260801163200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 42회",
+            "startTime": "20260801163200",
+            "endTime": "20260801173600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 43회",
+            "startTime": "20260801173600",
+            "endTime": "20260801183900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 44회",
+            "startTime": "20260801183900",
+            "endTime": "20260801194300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 45회",
+            "startTime": "20260801194300",
+            "endTime": "20260801204900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 46회",
+            "startTime": "20260801204900",
+            "endTime": "20260801215300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 47회",
+            "startTime": "20260801215300",
+            "endTime": "20260801225700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52368",
+            "title": "넝쿨째 굴러온 당신 48회",
+            "startTime": "20260801225700",
+            "endTime": "20260802000100",
+            "ott": "tving"
+        }
+    ],
     "C52473.tving": [
         {
             "channelid": "C52473",
@@ -84075,6 +83611,169 @@
             "title": "거침없이 하이킥, 56회 - 결혼기념일에 연극배우 빰치는 해미 / 신지*영민과 결별 &amp; 신지의 실직",
             "startTime": "20260801233927",
             "endTime": "20260802001230",
+            "ott": "tving"
+        }
+    ],
+    "C52476.tving": [
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 1회 - 1. 새벽의 동승자 2. 해피 하우스 3. 귀목고개의 원혼...",
+            "startTime": "20260731200009",
+            "endTime": "20260731211618",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 2회 - 1. 호텔 지배인 2. 선물 받은 인형 3. 특별한 조별 과제...",
+            "startTime": "20260731211618",
+            "endTime": "20260731222805",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 3회 - 1. 여름날의 자개장 2. 남미에서 만난 그 아이 3. 여고괴담...",
+            "startTime": "20260731222805",
+            "endTime": "20260731234419",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 4회 - 1. 인과응보 2. 중국 파견근무 3. 할머니의 선물...",
+            "startTime": "20260731234419",
+            "endTime": "20260801010012",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 1회 - 1. 새벽의 동승자 2. 해피 하우스 3. 귀목고개의 원혼...",
+            "startTime": "20260801010012",
+            "endTime": "20260801021621",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 2회 - 1. 호텔 지배인 2. 선물 받은 인형 3. 특별한 조별 과제...",
+            "startTime": "20260801021621",
+            "endTime": "20260801032808",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 3회 - 1. 여름날의 자개장 2. 남미에서 만난 그 아이 3. 여고괴담...",
+            "startTime": "20260801032808",
+            "endTime": "20260801044422",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 4회 - 1. 인과응보 2. 중국 파견근무 3. 할머니의 선물...",
+            "startTime": "20260801044422",
+            "endTime": "20260801050000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 5회 - 1. 물 위의 남자 2. 의과대학 부검실 3. 신혼집의 다락방",
+            "startTime": "20260801050000",
+            "endTime": "20260801061327",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 6회 - 1. 내 눈이 어때서 2. 공수부대 훈련 3. 신축 빌라 전세 급구...",
+            "startTime": "20260801061327",
+            "endTime": "20260801073135",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 7회 - 1. 대물림 2. 군견소대 괴담 3. 계단 밑 창고...",
+            "startTime": "20260801073135",
+            "endTime": "20260801084902",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 8회 - 1. 홍 주임의 비밀 2. 오사카의 민박집 3. 꼬까신...",
+            "startTime": "20260801084902",
+            "endTime": "20260801101050",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 5회 - 1. 물 위의 남자 2. 의과대학 부검실 3. 신혼집의 다락방",
+            "startTime": "20260801101050",
+            "endTime": "20260801112417",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 6회 - 1. 내 눈이 어때서 2. 공수부대 훈련 3. 신축 빌라 전세 급구...",
+            "startTime": "20260801112417",
+            "endTime": "20260801124225",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 7회 - 1. 대물림 2. 군견소대 괴담 3. 계단 밑 창고...",
+            "startTime": "20260801124225",
+            "endTime": "20260801135952",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 8회 - 1. 홍 주임의 비밀 2. 오사카의 민박집 3. 꼬까신...",
+            "startTime": "20260801135952",
+            "endTime": "20260801152140",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 5회 - 1. 물 위의 남자 2. 의과대학 부검실 3. 신혼집의 다락방",
+            "startTime": "20260801152140",
+            "endTime": "20260801163507",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 6회 - 1. 내 눈이 어때서 2. 공수부대 훈련 3. 신축 빌라 전세 급구...",
+            "startTime": "20260801163507",
+            "endTime": "20260801175315",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 7회 - 1. 대물림 2. 군견소대 괴담 3. 계단 밑 창고...",
+            "startTime": "20260801175315",
+            "endTime": "20260801191042",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 8회 - 1. 홍 주임의 비밀 2. 오사카의 민박집 3. 꼬까신...",
+            "startTime": "20260801191042",
+            "endTime": "20260801203230",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 5회 - 1. 물 위의 남자 2. 의과대학 부검실 3. 신혼집의 다락방",
+            "startTime": "20260801203230",
+            "endTime": "20260801214557",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 6회 - 1. 내 눈이 어때서 2. 공수부대 훈련 3. 신축 빌라 전세 급구...",
+            "startTime": "20260801214557",
+            "endTime": "20260801230405",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52476",
+            "title": "심야괴담회, 7회 - 1. 대물림 2. 군견소대 괴담 3. 계단 밑 창고...",
+            "startTime": "20260801230405",
+            "endTime": "20260802002132",
             "ott": "tving"
         }
     ],
@@ -84807,6 +84506,197 @@
             "ott": "tving"
         }
     ],
+    "C00708.tving": [
+        {
+            "channelid": "C00708",
+            "title": "천기누설",
+            "startTime": "20260731201000",
+            "endTime": "20260731211000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "전현무계획 4 1부",
+            "startTime": "20260731211000",
+            "endTime": "20260731215000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "전현무계획 4 2부",
+            "startTime": "20260731215000",
+            "endTime": "20260731225000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "내가 만난 사이코패스",
+            "startTime": "20260731225000",
+            "endTime": "20260801000000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "소나무",
+            "startTime": "20260801000000",
+            "endTime": "20260801010000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "알토란",
+            "startTime": "20260801010000",
+            "endTime": "20260801020000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "[MBN 스페셜 다큐]더 매직 쇼: 펜과 텔러를 속여라",
+            "startTime": "20260801020000",
+            "endTime": "20260801025000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "[MBN 스페셜 다큐]더 매직 쇼: 펜과 텔러를 속여라",
+            "startTime": "20260801025000",
+            "endTime": "20260801034000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "알토란 스페셜",
+            "startTime": "20260801034000",
+            "endTime": "20260801060000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "휴먼다큐 사노라면",
+            "startTime": "20260801060000",
+            "endTime": "20260801065000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "가화만사성",
+            "startTime": "20260801065000",
+            "endTime": "20260801074000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "특집다큐H 질병을 이기는 힘, 면역력을 높여라",
+            "startTime": "20260801074000",
+            "endTime": "20260801084000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "기가빌더",
+            "startTime": "20260801084000",
+            "endTime": "20260801091000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "기가빌더",
+            "startTime": "20260801091000",
+            "endTime": "20260801094000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "당신이 아픈 사이",
+            "startTime": "20260801094000",
+            "endTime": "20260801104000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "휴먼다큐 사노라면",
+            "startTime": "20260801104000",
+            "endTime": "20260801113000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "나는 자연인이다",
+            "startTime": "20260801113000",
+            "endTime": "20260801124000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "특종세상",
+            "startTime": "20260801124000",
+            "endTime": "20260801135000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "속풀이쇼 동치미",
+            "startTime": "20260801135000",
+            "endTime": "20260801153000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "MBN 토요 와이드",
+            "startTime": "20260801153000",
+            "endTime": "20260801170000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "건강한 썰 주은네 사랑채",
+            "startTime": "20260801170000",
+            "endTime": "20260801180000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "김주하의 데이앤나잇",
+            "startTime": "20260801180000",
+            "endTime": "20260801190000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "전설의 사내 1부",
+            "startTime": "20260801190000",
+            "endTime": "20260801193000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "MBN 뉴스센터",
+            "startTime": "20260801193000",
+            "endTime": "20260801202000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "전설의 사내 2부",
+            "startTime": "20260801202000",
+            "endTime": "20260801214000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "김주하의 데이앤나잇",
+            "startTime": "20260801214000",
+            "endTime": "20260801230000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00708",
+            "title": "속풀이쇼 동치미 1부",
+            "startTime": "20260801230000",
+            "endTime": "20260802000000",
+            "ott": "tving"
+        }
+    ],
     "C01583.tving": [
         {
             "channelid": "C01583",
@@ -84991,281 +84881,6 @@
             "ott": "tving"
         }
     ],
-    "C00772.tving": [
-        {
-            "channelid": "C00772",
-            "title": "세계테마기행 스페셜",
-            "startTime": "20260731204000",
-            "endTime": "20260731213500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "한국기행",
-            "startTime": "20260731213500",
-            "endTime": "20260731215500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "명의",
-            "startTime": "20260731215500",
-            "endTime": "20260731225000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "취미는 과학",
-            "startTime": "20260731225000",
-            "endTime": "20260731234500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "위대한 수업, 그레이트 마인즈",
-            "startTime": "20260731234500",
-            "endTime": "20260801000500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "AI 고전 역사를 바꾼 100책",
-            "startTime": "20260801000500",
-            "endTime": "20260801002000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "2026 헬로루키",
-            "startTime": "20260801002000",
-            "endTime": "20260801003000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "EBS 스페이스 공감",
-            "startTime": "20260801003000",
-            "endTime": "20260801012500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "EIDF 걸작선",
-            "startTime": "20260801012500",
-            "endTime": "20260801024500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "방송시간이 아닙니다(5시부터 방송예정)",
-            "startTime": "20260801024500",
-            "endTime": "20260801050000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "EBS 비즈니스 리뷰",
-            "startTime": "20260801050000",
-            "endTime": "20260801053000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "고향민국",
-            "startTime": "20260801053000",
-            "endTime": "20260801060000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "고향민국",
-            "startTime": "20260801060000",
-            "endTime": "20260801063000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "세상을 비집고 시즌3",
-            "startTime": "20260801063000",
-            "endTime": "20260801070000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "블루이",
-            "startTime": "20260801070000",
-            "endTime": "20260801073000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "타타와 쿠마 오늘도 대모험",
-            "startTime": "20260801073000",
-            "endTime": "20260801074000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "딩동댕 유치원",
-            "startTime": "20260801074000",
-            "endTime": "20260801080000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "최고다! 호기심딱지",
-            "startTime": "20260801080000",
-            "endTime": "20260801081500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "최고다! 호기심딱지",
-            "startTime": "20260801081500",
-            "endTime": "20260801083000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "지구 영웅 번개맨",
-            "startTime": "20260801083000",
-            "endTime": "20260801084500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "지구 영웅 번개맨",
-            "startTime": "20260801084500",
-            "endTime": "20260801090000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "슈퍼윙스 지구를 지켜라",
-            "startTime": "20260801090000",
-            "endTime": "20260801093000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "기가빌더",
-            "startTime": "20260801093000",
-            "endTime": "20260801100000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "어린 철학자",
-            "startTime": "20260801100000",
-            "endTime": "20260801101500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "수상한 방송국",
-            "startTime": "20260801101500",
-            "endTime": "20260801103000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "왔다! 내 손주",
-            "startTime": "20260801103000",
-            "endTime": "20260801112500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "나눔 0700",
-            "startTime": "20260801112500",
-            "endTime": "20260801115500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "최고의 요리비결",
-            "startTime": "20260801115500",
-            "endTime": "20260801141000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "부모의 첫 성교육",
-            "startTime": "20260801141000",
-            "endTime": "20260801150000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "AI시대, 교실을 바꾸는 선생님",
-            "startTime": "20260801150000",
-            "endTime": "20260801155000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "EBS 다큐프라임",
-            "startTime": "20260801155000",
-            "endTime": "20260801164500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "취미는 과학",
-            "startTime": "20260801164500",
-            "endTime": "20260801174000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "최후의 인류",
-            "startTime": "20260801174000",
-            "endTime": "20260801183500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "한국기행",
-            "startTime": "20260801183500",
-            "endTime": "20260801201000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "서장훈의 이웃집 백만장자",
-            "startTime": "20260801201000",
-            "endTime": "20260801210500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "극한직업",
-            "startTime": "20260801210500",
-            "endTime": "20260801220000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "세상에 나쁜 개는 없다",
-            "startTime": "20260801220000",
-            "endTime": "20260801225500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "AI 드라마 - 부활수업",
-            "startTime": "20260801225500",
-            "endTime": "20260801230500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00772",
-            "title": "세계의 명화 (새)",
-            "startTime": "20260801230500",
-            "endTime": "20260802011000",
-            "ott": "tving"
-        }
-    ],
     "C17141.tving": [
         {
             "channelid": "C17141",
@@ -85419,6 +85034,463 @@
             "title": "[블랙퀸즈 역전] 야구여왕 2",
             "startTime": "20260801231000",
             "endTime": "20260802004000",
+            "ott": "tving"
+        }
+    ],
+    "C04042.tving": [
+        {
+            "channelid": "C04042",
+            "title": "뚜식이10",
+            "startTime": "20260731210000",
+            "endTime": "20260731212300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "뚜식이10",
+            "startTime": "20260731212300",
+            "endTime": "20260731220000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "귀멸의 칼날(한국어 더빙)",
+            "startTime": "20260731220000",
+            "endTime": "20260731222400",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "귀멸의 칼날(한국어 더빙)",
+            "startTime": "20260731222400",
+            "endTime": "20260731225900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "귀멸의 칼날(한국어 더빙)",
+            "startTime": "20260731225900",
+            "endTime": "20260731232300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "귀멸의 칼날(한국어 더빙)",
+            "startTime": "20260731232300",
+            "endTime": "20260801000000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "도굴왕(자막)",
+            "startTime": "20260801000000",
+            "endTime": "20260801003000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "여기는 내게 맡기고 먼저 가라고 말한 지 10년이 지났더니 전설이 되어 있었다",
+            "startTime": "20260801003000",
+            "endTime": "20260801010200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "유녀전기 2",
+            "startTime": "20260801010200",
+            "endTime": "20260801013000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "여성향 게임 세계는 모브에게 가혹한 세계입니다2",
+            "startTime": "20260801013000",
+            "endTime": "20260801020100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "Re:제로부터 시작하는 이세계 생활3",
+            "startTime": "20260801020100",
+            "endTime": "20260801023000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "Re:제로부터 시작하는 이세계 생활3",
+            "startTime": "20260801023000",
+            "endTime": "20260801030000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "Re:제로부터 시작하는 이세계 생활3",
+            "startTime": "20260801030000",
+            "endTime": "20260801032300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "Re:제로부터 시작하는 이세계 생활3",
+            "startTime": "20260801032300",
+            "endTime": "20260801035500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "아이돌 마스터 샤이니 컬러즈2",
+            "startTime": "20260801035500",
+            "endTime": "20260801041900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "아이돌 마스터 샤이니 컬러즈2",
+            "startTime": "20260801041900",
+            "endTime": "20260801044600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "아이돌 마스터 샤이니 컬러즈2",
+            "startTime": "20260801044600",
+            "endTime": "20260801051000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "아이돌 마스터 샤이니 컬러즈2",
+            "startTime": "20260801051000",
+            "endTime": "20260801053700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "닌자고: 드래곤 라이징",
+            "startTime": "20260801053700",
+            "endTime": "20260801060300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "로보카 폴리 3",
+            "startTime": "20260801060300",
+            "endTime": "20260801061400",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "로보카 폴리 3",
+            "startTime": "20260801061400",
+            "endTime": "20260801063000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "레고 드림즈 part2",
+            "startTime": "20260801063000",
+            "endTime": "20260801064100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "레고 드림즈 part2",
+            "startTime": "20260801064100",
+            "endTime": "20260801070000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "시크릿 쥬쥬: 별의 보석2",
+            "startTime": "20260801070000",
+            "endTime": "20260801071100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "시크릿 쥬쥬: 별의 보석2",
+            "startTime": "20260801071100",
+            "endTime": "20260801072800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "파워레인저 애니멀포스 친구들",
+            "startTime": "20260801072800",
+            "endTime": "20260801080000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "푸먹",
+            "startTime": "20260801080000",
+            "endTime": "20260801082100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "푸먹",
+            "startTime": "20260801082100",
+            "endTime": "20260801090000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "푸먹",
+            "startTime": "20260801090000",
+            "endTime": "20260801092500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "푸먹",
+            "startTime": "20260801092500",
+            "endTime": "20260801100000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "슈크림 토끼 슈야",
+            "startTime": "20260801100000",
+            "endTime": "20260801101000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "슈크림 토끼 슈야",
+            "startTime": "20260801101000",
+            "endTime": "20260801102100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "슈크림 토끼 슈야",
+            "startTime": "20260801102100",
+            "endTime": "20260801103500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "슈크림 토끼 슈야",
+            "startTime": "20260801103500",
+            "endTime": "20260801110000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "슈크림 토끼 슈야",
+            "startTime": "20260801110000",
+            "endTime": "20260801111000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "슈크림 토끼 슈야",
+            "startTime": "20260801111000",
+            "endTime": "20260801112400",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "슈크림 토끼 슈야",
+            "startTime": "20260801112400",
+            "endTime": "20260801113900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "슈크림 토끼 슈야",
+            "startTime": "20260801113900",
+            "endTime": "20260801120000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "백앤아: 고고프렌즈5",
+            "startTime": "20260801120000",
+            "endTime": "20260801122400",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "백앤아: 고고프렌즈5",
+            "startTime": "20260801122400",
+            "endTime": "20260801124600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "백앤아: 고고프렌즈5",
+            "startTime": "20260801124600",
+            "endTime": "20260801133000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "뚜식이10",
+            "startTime": "20260801133000",
+            "endTime": "20260801135200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "뚜식이10",
+            "startTime": "20260801135200",
+            "endTime": "20260801141700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "뚜식이10",
+            "startTime": "20260801141700",
+            "endTime": "20260801145900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "뚜식이 특별편: 뽕짜작 뽕짝",
+            "startTime": "20260801145900",
+            "endTime": "20260801155900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "빨간내복 야코",
+            "startTime": "20260801155900",
+            "endTime": "20260801161100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "빨간내복 야코",
+            "startTime": "20260801161100",
+            "endTime": "20260801162300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "빨간내복 야코",
+            "startTime": "20260801162300",
+            "endTime": "20260801163500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "빨간내복 야코",
+            "startTime": "20260801163500",
+            "endTime": "20260801170000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "빨간내복 야코",
+            "startTime": "20260801170000",
+            "endTime": "20260801171100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "빨간내복 야코",
+            "startTime": "20260801171100",
+            "endTime": "20260801172400",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "빨간내복 야코",
+            "startTime": "20260801172400",
+            "endTime": "20260801173600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "빨간내복 야코",
+            "startTime": "20260801173600",
+            "endTime": "20260801175900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "원픽은, 흔한남매4",
+            "startTime": "20260801175900",
+            "endTime": "20260801181800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "원픽은, 흔한남매4",
+            "startTime": "20260801181800",
+            "endTime": "20260801185800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "원픽은, 흔한남매4",
+            "startTime": "20260801185800",
+            "endTime": "20260801191700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "원픽은, 흔한남매4",
+            "startTime": "20260801191700",
+            "endTime": "20260801200000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "총몇명 클래식",
+            "startTime": "20260801200000",
+            "endTime": "20260801202400",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "총몇명 클래식",
+            "startTime": "20260801202400",
+            "endTime": "20260801210000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "총몇명 클래식",
+            "startTime": "20260801210000",
+            "endTime": "20260801212100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "총몇명 클래식",
+            "startTime": "20260801212100",
+            "endTime": "20260801220000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "귀멸의 칼날(한국어 더빙)",
+            "startTime": "20260801220000",
+            "endTime": "20260801222400",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "귀멸의 칼날(한국어 더빙)",
+            "startTime": "20260801222400",
+            "endTime": "20260801225900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "귀멸의 칼날: 무한열차 편(더빙)",
+            "startTime": "20260801225900",
+            "endTime": "20260801232600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C04042",
+            "title": "귀멸의 칼날: 무한열차 편(더빙)",
+            "startTime": "20260801232600",
+            "endTime": "20260802000000",
             "ott": "tving"
         }
     ],
@@ -86629,190 +86701,6 @@
             "ott": "tving"
         }
     ],
-    "C52368.tving": [
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 23회",
-            "startTime": "20260731202600",
-            "endTime": "20260731213000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 24회",
-            "startTime": "20260731213000",
-            "endTime": "20260731223300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 25회",
-            "startTime": "20260731223300",
-            "endTime": "20260731233700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 26회",
-            "startTime": "20260731233700",
-            "endTime": "20260801003900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 27회",
-            "startTime": "20260801003900",
-            "endTime": "20260801014300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 28회",
-            "startTime": "20260801014300",
-            "endTime": "20260801024700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 29회",
-            "startTime": "20260801024700",
-            "endTime": "20260801035000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 30회",
-            "startTime": "20260801035000",
-            "endTime": "20260801045200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 31회",
-            "startTime": "20260801045200",
-            "endTime": "20260801055600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 32회",
-            "startTime": "20260801055600",
-            "endTime": "20260801065900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 33회",
-            "startTime": "20260801065900",
-            "endTime": "20260801080400",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 34회",
-            "startTime": "20260801080400",
-            "endTime": "20260801090700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 35회",
-            "startTime": "20260801090700",
-            "endTime": "20260801101100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 36회",
-            "startTime": "20260801101100",
-            "endTime": "20260801111400",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 37회",
-            "startTime": "20260801111400",
-            "endTime": "20260801121700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 38회",
-            "startTime": "20260801121700",
-            "endTime": "20260801132100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 39회",
-            "startTime": "20260801132100",
-            "endTime": "20260801142500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 40회",
-            "startTime": "20260801142500",
-            "endTime": "20260801152800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 41회",
-            "startTime": "20260801152800",
-            "endTime": "20260801163200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 42회",
-            "startTime": "20260801163200",
-            "endTime": "20260801173600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 43회",
-            "startTime": "20260801173600",
-            "endTime": "20260801183900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 44회",
-            "startTime": "20260801183900",
-            "endTime": "20260801194300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 45회",
-            "startTime": "20260801194300",
-            "endTime": "20260801204900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 46회",
-            "startTime": "20260801204900",
-            "endTime": "20260801215300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 47회",
-            "startTime": "20260801215300",
-            "endTime": "20260801225700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52368",
-            "title": "넝쿨째 굴러온 당신 48회",
-            "startTime": "20260801225700",
-            "endTime": "20260802000100",
-            "ott": "tving"
-        }
-    ],
     "C52367.tving": [
         {
             "channelid": "C52367",
@@ -87286,6 +87174,204 @@
             "ott": "tving"
         }
     ],
+    "C00595.tving": [
+        {
+            "channelid": "C00595",
+            "title": "더 워룸",
+            "startTime": "20260731200000",
+            "endTime": "20260731220000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "한경 글로벌 마켓",
+            "startTime": "20260731220000",
+            "endTime": "20260731230000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "송재호 - 부의 황금공식",
+            "startTime": "20260731230000",
+            "endTime": "20260801000000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "ETF 골든타임",
+            "startTime": "20260801000000",
+            "endTime": "20260801010000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "더 워룸",
+            "startTime": "20260801010000",
+            "endTime": "20260801030000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "경제전쟁 '꾼' 시즌3",
+            "startTime": "20260801030000",
+            "endTime": "20260801040000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "ETF 골든타임",
+            "startTime": "20260801040000",
+            "endTime": "20260801050000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "주식, 알아야번다 2부",
+            "startTime": "20260801050000",
+            "endTime": "20260801053000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "주식, 알아야번다 2부",
+            "startTime": "20260801053000",
+            "endTime": "20260801060000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "국민주식고충처리반 1부",
+            "startTime": "20260801060000",
+            "endTime": "20260801070000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "국민주식고충처리반 2부",
+            "startTime": "20260801070000",
+            "endTime": "20260801080000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "국민주식고충처리반 3부",
+            "startTime": "20260801080000",
+            "endTime": "20260801090000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "국민주식고충처리반 4부",
+            "startTime": "20260801090000",
+            "endTime": "20260801100000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "국민주식고충처리반 5부",
+            "startTime": "20260801100000",
+            "endTime": "20260801110000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "국민주식고충처리반 6부",
+            "startTime": "20260801110000",
+            "endTime": "20260801120000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "한정훈의 부동산 카페",
+            "startTime": "20260801120000",
+            "endTime": "20260801130000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "몸쓸 이야기",
+            "startTime": "20260801130000",
+            "endTime": "20260801140000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "건강매거진",
+            "startTime": "20260801140000",
+            "endTime": "20260801150000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "경제전쟁 '꾼' 시즌3",
+            "startTime": "20260801150000",
+            "endTime": "20260801160000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "송재호 - 부의 황금공식",
+            "startTime": "20260801160000",
+            "endTime": "20260801170000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "미네르바 아카데미",
+            "startTime": "20260801170000",
+            "endTime": "20260801180000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "ETF 골든타임",
+            "startTime": "20260801180000",
+            "endTime": "20260801190000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "파워인터뷰",
+            "startTime": "20260801190000",
+            "endTime": "20260801193000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "신박한 경제토크 킥",
+            "startTime": "20260801193000",
+            "endTime": "20260801200000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "경제전쟁 '꾼' 시즌3",
+            "startTime": "20260801200000",
+            "endTime": "20260801210000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "송재호 - 부의 황금공식",
+            "startTime": "20260801210000",
+            "endTime": "20260801220000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "몸쓸 이야기",
+            "startTime": "20260801220000",
+            "endTime": "20260801230000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00595",
+            "title": "한정훈의 부동산 카페",
+            "startTime": "20260801230000",
+            "endTime": "20260802000000",
+            "ott": "tving"
+        }
+    ],
     "C52421.tving": [
         {
             "channelid": "C52421",
@@ -87632,169 +87718,6 @@
             "title": "놀면 뭐하니?, 217회 - 놀뭐 복원소",
             "startTime": "20260801225610",
             "endTime": "20260802000905",
-            "ott": "tving"
-        }
-    ],
-    "C52476.tving": [
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 1회 - 1. 새벽의 동승자 2. 해피 하우스 3. 귀목고개의 원혼...",
-            "startTime": "20260731200009",
-            "endTime": "20260731211618",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 2회 - 1. 호텔 지배인 2. 선물 받은 인형 3. 특별한 조별 과제...",
-            "startTime": "20260731211618",
-            "endTime": "20260731222805",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 3회 - 1. 여름날의 자개장 2. 남미에서 만난 그 아이 3. 여고괴담...",
-            "startTime": "20260731222805",
-            "endTime": "20260731234419",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 4회 - 1. 인과응보 2. 중국 파견근무 3. 할머니의 선물...",
-            "startTime": "20260731234419",
-            "endTime": "20260801010012",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 1회 - 1. 새벽의 동승자 2. 해피 하우스 3. 귀목고개의 원혼...",
-            "startTime": "20260801010012",
-            "endTime": "20260801021621",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 2회 - 1. 호텔 지배인 2. 선물 받은 인형 3. 특별한 조별 과제...",
-            "startTime": "20260801021621",
-            "endTime": "20260801032808",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 3회 - 1. 여름날의 자개장 2. 남미에서 만난 그 아이 3. 여고괴담...",
-            "startTime": "20260801032808",
-            "endTime": "20260801044422",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 4회 - 1. 인과응보 2. 중국 파견근무 3. 할머니의 선물...",
-            "startTime": "20260801044422",
-            "endTime": "20260801050000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 5회 - 1. 물 위의 남자 2. 의과대학 부검실 3. 신혼집의 다락방",
-            "startTime": "20260801050000",
-            "endTime": "20260801061327",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 6회 - 1. 내 눈이 어때서 2. 공수부대 훈련 3. 신축 빌라 전세 급구...",
-            "startTime": "20260801061327",
-            "endTime": "20260801073135",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 7회 - 1. 대물림 2. 군견소대 괴담 3. 계단 밑 창고...",
-            "startTime": "20260801073135",
-            "endTime": "20260801084902",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 8회 - 1. 홍 주임의 비밀 2. 오사카의 민박집 3. 꼬까신...",
-            "startTime": "20260801084902",
-            "endTime": "20260801101050",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 5회 - 1. 물 위의 남자 2. 의과대학 부검실 3. 신혼집의 다락방",
-            "startTime": "20260801101050",
-            "endTime": "20260801112417",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 6회 - 1. 내 눈이 어때서 2. 공수부대 훈련 3. 신축 빌라 전세 급구...",
-            "startTime": "20260801112417",
-            "endTime": "20260801124225",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 7회 - 1. 대물림 2. 군견소대 괴담 3. 계단 밑 창고...",
-            "startTime": "20260801124225",
-            "endTime": "20260801135952",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 8회 - 1. 홍 주임의 비밀 2. 오사카의 민박집 3. 꼬까신...",
-            "startTime": "20260801135952",
-            "endTime": "20260801152140",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 5회 - 1. 물 위의 남자 2. 의과대학 부검실 3. 신혼집의 다락방",
-            "startTime": "20260801152140",
-            "endTime": "20260801163507",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 6회 - 1. 내 눈이 어때서 2. 공수부대 훈련 3. 신축 빌라 전세 급구...",
-            "startTime": "20260801163507",
-            "endTime": "20260801175315",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 7회 - 1. 대물림 2. 군견소대 괴담 3. 계단 밑 창고...",
-            "startTime": "20260801175315",
-            "endTime": "20260801191042",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 8회 - 1. 홍 주임의 비밀 2. 오사카의 민박집 3. 꼬까신...",
-            "startTime": "20260801191042",
-            "endTime": "20260801203230",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 5회 - 1. 물 위의 남자 2. 의과대학 부검실 3. 신혼집의 다락방",
-            "startTime": "20260801203230",
-            "endTime": "20260801214557",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 6회 - 1. 내 눈이 어때서 2. 공수부대 훈련 3. 신축 빌라 전세 급구...",
-            "startTime": "20260801214557",
-            "endTime": "20260801230405",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52476",
-            "title": "심야괴담회, 7회 - 1. 대물림 2. 군견소대 괴담 3. 계단 밑 창고...",
-            "startTime": "20260801230405",
-            "endTime": "20260802002132",
             "ott": "tving"
         }
     ],
@@ -88475,6 +88398,218 @@
             "title": "SUMBAKKOKJIL 2",
             "startTime": "20260801230000",
             "endTime": "20260802002000",
+            "ott": "tving"
+        }
+    ],
+    "C00601.tving": [
+        {
+            "channelid": "C00601",
+            "title": "비비안 언더웨어",
+            "startTime": "20260731204500",
+            "endTime": "20260731214500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "허벌리스테 트리트먼트",
+            "startTime": "20260731214500",
+            "endTime": "20260731224500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "하나투어 다카마츠",
+            "startTime": "20260731224500",
+            "endTime": "20260731234500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "M12 의류",
+            "startTime": "20260731234500",
+            "endTime": "20260801004500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "닥터린 콘드로이친",
+            "startTime": "20260801004500",
+            "endTime": "20260801014500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "까사리빙 침구",
+            "startTime": "20260801014500",
+            "endTime": "20260801022500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "심야 베스트",
+            "startTime": "20260801022500",
+            "endTime": "20260801041500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "락포트 에어로컴포트 스니커즈",
+            "startTime": "20260801041500",
+            "endTime": "20260801044500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "바오먼트 월넛 밧드도마",
+            "startTime": "20260801044500",
+            "endTime": "20260801051500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "1촌1명품/1사1명품(수화)",
+            "startTime": "20260801051500",
+            "endTime": "20260801054500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "비비안 언더웨어",
+            "startTime": "20260801054500",
+            "endTime": "20260801064500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "까사리빙 침구",
+            "startTime": "20260801064500",
+            "endTime": "20260801074500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "원더바스 레몬청 클렌저",
+            "startTime": "20260801074500",
+            "endTime": "20260801084500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "바이오핏 기능성 슬리퍼",
+            "startTime": "20260801084500",
+            "endTime": "20260801094500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "비비안 언더웨어",
+            "startTime": "20260801094500",
+            "endTime": "20260801104500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "리터니티 율무팩",
+            "startTime": "20260801104500",
+            "endTime": "20260801114500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "신영와코루 언더웨어",
+            "startTime": "20260801114500",
+            "endTime": "20260801124500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "로보 무스탕",
+            "startTime": "20260801124500",
+            "endTime": "20260801134500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "루시헨느 언더웨어",
+            "startTime": "20260801134500",
+            "endTime": "20260801144500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "넛세린 썬스틱",
+            "startTime": "20260801144500",
+            "endTime": "20260801154500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "링티 액티브프로",
+            "startTime": "20260801154500",
+            "endTime": "20260801164500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "셀렙샵 의류",
+            "startTime": "20260801164500",
+            "endTime": "20260801171500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "더엣지 의류",
+            "startTime": "20260801171500",
+            "endTime": "20260801174500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "지스튜디오 의류/네크리스",
+            "startTime": "20260801174500",
+            "endTime": "20260801181500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "보르고세시아 의류",
+            "startTime": "20260801181500",
+            "endTime": "20260801184500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "신영와코루 언더웨어",
+            "startTime": "20260801184500",
+            "endTime": "20260801204500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "힘펠 휴젠뜨 노바",
+            "startTime": "20260801204500",
+            "endTime": "20260801214500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "센존블루라벨 잡화",
+            "startTime": "20260801214500",
+            "endTime": "20260801224500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "BBQ 통살닭다리구이",
+            "startTime": "20260801224500",
+            "endTime": "20260801234500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00601",
+            "title": "락포트 펀칭 메리제인 스니커즈",
+            "startTime": "20260801234500",
+            "endTime": "20260802004500",
             "ott": "tving"
         }
     ],
@@ -91201,204 +91336,6 @@
             "ott": "tving"
         }
     ],
-    "C00595.tving": [
-        {
-            "channelid": "C00595",
-            "title": "더 워룸",
-            "startTime": "20260731200000",
-            "endTime": "20260731220000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "한경 글로벌 마켓",
-            "startTime": "20260731220000",
-            "endTime": "20260731230000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "송재호 - 부의 황금공식",
-            "startTime": "20260731230000",
-            "endTime": "20260801000000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "ETF 골든타임",
-            "startTime": "20260801000000",
-            "endTime": "20260801010000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "더 워룸",
-            "startTime": "20260801010000",
-            "endTime": "20260801030000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "경제전쟁 '꾼' 시즌3",
-            "startTime": "20260801030000",
-            "endTime": "20260801040000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "ETF 골든타임",
-            "startTime": "20260801040000",
-            "endTime": "20260801050000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "주식, 알아야번다 2부",
-            "startTime": "20260801050000",
-            "endTime": "20260801053000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "주식, 알아야번다 2부",
-            "startTime": "20260801053000",
-            "endTime": "20260801060000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "국민주식고충처리반 1부",
-            "startTime": "20260801060000",
-            "endTime": "20260801070000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "국민주식고충처리반 2부",
-            "startTime": "20260801070000",
-            "endTime": "20260801080000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "국민주식고충처리반 3부",
-            "startTime": "20260801080000",
-            "endTime": "20260801090000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "국민주식고충처리반 4부",
-            "startTime": "20260801090000",
-            "endTime": "20260801100000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "국민주식고충처리반 5부",
-            "startTime": "20260801100000",
-            "endTime": "20260801110000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "국민주식고충처리반 6부",
-            "startTime": "20260801110000",
-            "endTime": "20260801120000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "한정훈의 부동산 카페",
-            "startTime": "20260801120000",
-            "endTime": "20260801130000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "몸쓸 이야기",
-            "startTime": "20260801130000",
-            "endTime": "20260801140000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "건강매거진",
-            "startTime": "20260801140000",
-            "endTime": "20260801150000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "경제전쟁 '꾼' 시즌3",
-            "startTime": "20260801150000",
-            "endTime": "20260801160000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "송재호 - 부의 황금공식",
-            "startTime": "20260801160000",
-            "endTime": "20260801170000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "미네르바 아카데미",
-            "startTime": "20260801170000",
-            "endTime": "20260801180000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "ETF 골든타임",
-            "startTime": "20260801180000",
-            "endTime": "20260801190000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "파워인터뷰",
-            "startTime": "20260801190000",
-            "endTime": "20260801193000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "신박한 경제토크 킥",
-            "startTime": "20260801193000",
-            "endTime": "20260801200000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "경제전쟁 '꾼' 시즌3",
-            "startTime": "20260801200000",
-            "endTime": "20260801210000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "송재호 - 부의 황금공식",
-            "startTime": "20260801210000",
-            "endTime": "20260801220000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "몸쓸 이야기",
-            "startTime": "20260801220000",
-            "endTime": "20260801230000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00595",
-            "title": "한정훈의 부동산 카페",
-            "startTime": "20260801230000",
-            "endTime": "20260802000000",
-            "ott": "tving"
-        }
-    ],
     "C03801.tving": [
         {
             "channelid": "C03801",
@@ -92079,215 +92016,278 @@
             "ott": "tving"
         }
     ],
-    "C00601.tving": [
+    "C00772.tving": [
         {
-            "channelid": "C00601",
-            "title": "비비안 언더웨어",
-            "startTime": "20260731204500",
-            "endTime": "20260731214500",
+            "channelid": "C00772",
+            "title": "세계테마기행 스페셜",
+            "startTime": "20260731204000",
+            "endTime": "20260731213500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "허벌리스테 트리트먼트",
-            "startTime": "20260731214500",
-            "endTime": "20260731224500",
+            "channelid": "C00772",
+            "title": "한국기행",
+            "startTime": "20260731213500",
+            "endTime": "20260731215500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "하나투어 다카마츠",
-            "startTime": "20260731224500",
+            "channelid": "C00772",
+            "title": "명의",
+            "startTime": "20260731215500",
+            "endTime": "20260731225000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "취미는 과학",
+            "startTime": "20260731225000",
             "endTime": "20260731234500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "M12 의류",
+            "channelid": "C00772",
+            "title": "위대한 수업, 그레이트 마인즈",
             "startTime": "20260731234500",
-            "endTime": "20260801004500",
+            "endTime": "20260801000500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "닥터린 콘드로이친",
-            "startTime": "20260801004500",
-            "endTime": "20260801014500",
+            "channelid": "C00772",
+            "title": "AI 고전 역사를 바꾼 100책",
+            "startTime": "20260801000500",
+            "endTime": "20260801002000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "까사리빙 침구",
-            "startTime": "20260801014500",
-            "endTime": "20260801022500",
+            "channelid": "C00772",
+            "title": "2026 헬로루키",
+            "startTime": "20260801002000",
+            "endTime": "20260801003000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "심야 베스트",
-            "startTime": "20260801022500",
-            "endTime": "20260801041500",
+            "channelid": "C00772",
+            "title": "EBS 스페이스 공감",
+            "startTime": "20260801003000",
+            "endTime": "20260801012500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "락포트 에어로컴포트 스니커즈",
-            "startTime": "20260801041500",
-            "endTime": "20260801044500",
+            "channelid": "C00772",
+            "title": "EIDF 걸작선",
+            "startTime": "20260801012500",
+            "endTime": "20260801024500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "바오먼트 월넛 밧드도마",
-            "startTime": "20260801044500",
-            "endTime": "20260801051500",
+            "channelid": "C00772",
+            "title": "방송시간이 아닙니다(5시부터 방송예정)",
+            "startTime": "20260801024500",
+            "endTime": "20260801050000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "1촌1명품/1사1명품(수화)",
-            "startTime": "20260801051500",
-            "endTime": "20260801054500",
+            "channelid": "C00772",
+            "title": "EBS 비즈니스 리뷰",
+            "startTime": "20260801050000",
+            "endTime": "20260801053000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "비비안 언더웨어",
-            "startTime": "20260801054500",
-            "endTime": "20260801064500",
+            "channelid": "C00772",
+            "title": "고향민국",
+            "startTime": "20260801053000",
+            "endTime": "20260801060000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "까사리빙 침구",
-            "startTime": "20260801064500",
-            "endTime": "20260801074500",
+            "channelid": "C00772",
+            "title": "고향민국",
+            "startTime": "20260801060000",
+            "endTime": "20260801063000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "원더바스 레몬청 클렌저",
-            "startTime": "20260801074500",
+            "channelid": "C00772",
+            "title": "세상을 비집고 시즌3",
+            "startTime": "20260801063000",
+            "endTime": "20260801070000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "블루이",
+            "startTime": "20260801070000",
+            "endTime": "20260801073000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "타타와 쿠마 오늘도 대모험",
+            "startTime": "20260801073000",
+            "endTime": "20260801074000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "딩동댕 유치원",
+            "startTime": "20260801074000",
+            "endTime": "20260801080000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "최고다! 호기심딱지",
+            "startTime": "20260801080000",
+            "endTime": "20260801081500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "최고다! 호기심딱지",
+            "startTime": "20260801081500",
+            "endTime": "20260801083000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "지구 영웅 번개맨",
+            "startTime": "20260801083000",
             "endTime": "20260801084500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "바이오핏 기능성 슬리퍼",
+            "channelid": "C00772",
+            "title": "지구 영웅 번개맨",
             "startTime": "20260801084500",
-            "endTime": "20260801094500",
+            "endTime": "20260801090000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "비비안 언더웨어",
-            "startTime": "20260801094500",
-            "endTime": "20260801104500",
+            "channelid": "C00772",
+            "title": "슈퍼윙스 지구를 지켜라",
+            "startTime": "20260801090000",
+            "endTime": "20260801093000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "리터니티 율무팩",
-            "startTime": "20260801104500",
-            "endTime": "20260801114500",
+            "channelid": "C00772",
+            "title": "기가빌더",
+            "startTime": "20260801093000",
+            "endTime": "20260801100000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "신영와코루 언더웨어",
-            "startTime": "20260801114500",
-            "endTime": "20260801124500",
+            "channelid": "C00772",
+            "title": "어린 철학자",
+            "startTime": "20260801100000",
+            "endTime": "20260801101500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "로보 무스탕",
-            "startTime": "20260801124500",
-            "endTime": "20260801134500",
+            "channelid": "C00772",
+            "title": "수상한 방송국",
+            "startTime": "20260801101500",
+            "endTime": "20260801103000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "루시헨느 언더웨어",
-            "startTime": "20260801134500",
-            "endTime": "20260801144500",
+            "channelid": "C00772",
+            "title": "왔다! 내 손주",
+            "startTime": "20260801103000",
+            "endTime": "20260801112500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "넛세린 썬스틱",
-            "startTime": "20260801144500",
-            "endTime": "20260801154500",
+            "channelid": "C00772",
+            "title": "나눔 0700",
+            "startTime": "20260801112500",
+            "endTime": "20260801115500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "링티 액티브프로",
-            "startTime": "20260801154500",
+            "channelid": "C00772",
+            "title": "최고의 요리비결",
+            "startTime": "20260801115500",
+            "endTime": "20260801141000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "부모의 첫 성교육",
+            "startTime": "20260801141000",
+            "endTime": "20260801150000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "AI시대, 교실을 바꾸는 선생님",
+            "startTime": "20260801150000",
+            "endTime": "20260801155000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00772",
+            "title": "EBS 다큐프라임",
+            "startTime": "20260801155000",
             "endTime": "20260801164500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "셀렙샵 의류",
+            "channelid": "C00772",
+            "title": "취미는 과학",
             "startTime": "20260801164500",
-            "endTime": "20260801171500",
+            "endTime": "20260801174000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "더엣지 의류",
-            "startTime": "20260801171500",
-            "endTime": "20260801174500",
+            "channelid": "C00772",
+            "title": "최후의 인류",
+            "startTime": "20260801174000",
+            "endTime": "20260801183500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "지스튜디오 의류/네크리스",
-            "startTime": "20260801174500",
-            "endTime": "20260801181500",
+            "channelid": "C00772",
+            "title": "한국기행",
+            "startTime": "20260801183500",
+            "endTime": "20260801201000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "보르고세시아 의류",
-            "startTime": "20260801181500",
-            "endTime": "20260801184500",
+            "channelid": "C00772",
+            "title": "서장훈의 이웃집 백만장자",
+            "startTime": "20260801201000",
+            "endTime": "20260801210500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "신영와코루 언더웨어",
-            "startTime": "20260801184500",
-            "endTime": "20260801204500",
+            "channelid": "C00772",
+            "title": "극한직업",
+            "startTime": "20260801210500",
+            "endTime": "20260801220000",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "힘펠 휴젠뜨 노바",
-            "startTime": "20260801204500",
-            "endTime": "20260801214500",
+            "channelid": "C00772",
+            "title": "세상에 나쁜 개는 없다",
+            "startTime": "20260801220000",
+            "endTime": "20260801225500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "센존블루라벨 잡화",
-            "startTime": "20260801214500",
-            "endTime": "20260801224500",
+            "channelid": "C00772",
+            "title": "AI 드라마 - 부활수업",
+            "startTime": "20260801225500",
+            "endTime": "20260801230500",
             "ott": "tving"
         },
         {
-            "channelid": "C00601",
-            "title": "BBQ 통살닭다리구이",
-            "startTime": "20260801224500",
-            "endTime": "20260801234500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00601",
-            "title": "락포트 펀칭 메리제인 스니커즈",
-            "startTime": "20260801234500",
-            "endTime": "20260802004500",
+            "channelid": "C00772",
+            "title": "세계의 명화 (새)",
+            "startTime": "20260801230500",
+            "endTime": "20260802011000",
             "ott": "tving"
         }
     ],
@@ -94682,20 +94682,20 @@
             "channelid": "S02",
             "title": "2026 KBO리그 SSG:키움",
             "startTime": "20260731182000",
-            "endTime": "20260731213000",
+            "endTime": "20260731215000",
             "ott": "bc_sbs"
         },
         {
             "channelid": "S02",
             "title": "베이스볼S ",
-            "startTime": "20260731213000",
-            "endTime": "20260731221500",
+            "startTime": "20260731215000",
+            "endTime": "20260731223500",
             "ott": "bc_sbs"
         },
         {
             "channelid": "S02",
             "title": "베이스볼S 다이제스트 ",
-            "startTime": "20260731221500",
+            "startTime": "20260731223500",
             "endTime": "20260731225500",
             "ott": "bc_sbs"
         },

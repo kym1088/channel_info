@@ -1628,5 +1628,12 @@
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0053/C52365.png",
         "ott": "tving",
         "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C52247",
+        "channelnm": "ATP 투어 월드피드",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251202/1457/C52247.png",
+        "ott": "tving",
+        "genrenm": "-"
     }
 ]

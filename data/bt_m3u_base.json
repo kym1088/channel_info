@@ -251,7 +251,7 @@
     {
         "channelid": "C2413",
         "channelnm": "MBN NEWS",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2413_logo_20251017175409.png",
         "ott": "wavve",
         "genrenm": "종편/보도"
     },
@@ -265,7 +265,7 @@
     {
         "channelid": "C2605",
         "channelnm": "TV조선 라이브 뉴스 24시",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2605_logo_20251017175121.png",
         "ott": "wavve",
         "genrenm": "종편/보도"
     },
@@ -279,7 +279,7 @@
     {
         "channelid": "S27",
         "channelnm": "SBS No.1 뉴스라이브",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S27_logo_20250910163731.png",
         "ott": "wavve",
         "genrenm": "종편/보도"
     },
@@ -414,21 +414,21 @@
     {
         "channelid": "J6301",
         "channelnm": "서울경제TV",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J6301_logo_20260520105013.png",
         "ott": "wavve",
         "genrenm": "종편/보도"
     },
     {
         "channelid": "J6401",
         "channelnm": "이데일리TV",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J6401_logo_20260506133419.png",
         "ott": "wavve",
         "genrenm": "종편/보도"
     },
     {
         "channelid": "J5101",
         "channelnm": "헬로tv뉴스",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J5101_logo_20260506133401.png",
         "ott": "wavve",
         "genrenm": "종편/보도"
     },
@@ -845,7 +845,7 @@
     {
         "channelid": "J4501",
         "channelnm": "바둑TV",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J4501_logo_20251111102909.png",
         "ott": "wavve",
         "genrenm": "스포츠"
     },
@@ -859,7 +859,7 @@
     {
         "channelid": "J3903",
         "channelnm": "K sports TV",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J3903_logo_20260305104458.png",
         "ott": "wavve",
         "genrenm": "스포츠"
     },
@@ -946,7 +946,7 @@
     {
         "channelid": "J5001",
         "channelnm": "KNN",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J5001_logo_20260224135355.png",
         "ott": "wavve",
         "genrenm": "시사/교양"
     },
@@ -967,14 +967,14 @@
     {
         "channelid": "J4901",
         "channelnm": "JTV",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J4901_logo_20260203141432.png",
         "ott": "wavve",
         "genrenm": "시사/교양"
     },
     {
         "channelid": "J2802",
         "channelnm": "CNN International",
-        "channelimg": "https://",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J2802_logo_20260630155701.png",
         "ott": "wavve",
         "genrenm": "시사/교양"
     },

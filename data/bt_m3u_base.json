@@ -102,69 +102,6 @@
         "genrenm": "종편/보도"
     },
     {
-        "channelid": "C2601",
-        "channelnm": "TV CHOSUN",
-        "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/C2601_Img_20210612162051.jpg",
-        "ott": "wavve",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "C01581",
-        "channelnm": "TV CHOSUN",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0501/C01581.png",
-        "ott": "tving",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "C2602",
-        "channelnm": "TV CHOSUN2",
-        "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/C2602_Img_20210608164002.jpg",
-        "ott": "wavve",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "C00585",
-        "channelnm": "TV CHOSUN 2",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0102/C00585.png",
-        "ott": "tving",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "C2501",
-        "channelnm": "채널A",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2501_main_20240723141822.jpg",
-        "ott": "wavve",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "C01583",
-        "channelnm": "채널A",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0921/C01583.png",
-        "ott": "tving",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "C2502",
-        "channelnm": "채널A 플러스",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2502_main_20241230112314.jpg",
-        "ott": "wavve",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "C17141",
-        "channelnm": "채널A플러스",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241229/1456/C17141.png",
-        "ott": "tving",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "C52470",
-        "channelnm": "채널A NEWS",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260630/0032/C52470.png",
-        "ott": "tving",
-        "genrenm": "종편/보도"
-    },
-    {
         "channelid": "C52389",
         "channelnm": "MBC 뉴스",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260510/2346/C52389.png",
@@ -443,6 +380,69 @@
         "channelid": "C17341",
         "channelnm": "히스토리",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0922/C17341.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2601",
+        "channelnm": "TV CHOSUN",
+        "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/C2601_Img_20210612162051.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C01581",
+        "channelnm": "TV CHOSUN",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0501/C01581.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2602",
+        "channelnm": "TV CHOSUN2",
+        "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/C2602_Img_20210608164002.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C00585",
+        "channelnm": "TV CHOSUN 2",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0102/C00585.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2501",
+        "channelnm": "채널A",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2501_main_20240723141822.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C01583",
+        "channelnm": "채널A",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0921/C01583.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C2502",
+        "channelnm": "채널A 플러스",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2502_main_20241230112314.jpg",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C17141",
+        "channelnm": "채널A플러스",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241229/1456/C17141.png",
+        "ott": "tving",
+        "genrenm": "종편/보도"
+    },
+    {
+        "channelid": "C52470",
+        "channelnm": "채널A NEWS",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260630/0032/C52470.png",
         "ott": "tving",
         "genrenm": "종편/보도"
     },
@@ -1640,20 +1640,6 @@
         "channelid": "C51850",
         "channelnm": "2026 KBO 리그",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260311/0453/C51850.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52310",
-        "channelnm": "2026 KBO 리그 팬덤중계",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0045/C52310.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52311",
-        "channelnm": "2026 KBO 리그 팬덤중계",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0047/C52311.png",
         "ott": "tving",
         "genrenm": "-"
     }

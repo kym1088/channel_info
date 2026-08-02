@@ -85,60 +85,6 @@
         }
     },
     {
-        "C2601.wavve": {
-            "channelnm": "TV CHOSUN",
-            "genre": "종편/보도"
-        }
-    },
-    {
-        "C01581.tving": {
-            "channelnm": "TV CHOSUN",
-            "genre": "종편/보도"
-        }
-    },
-    {
-        "C2602.wavve": {
-            "channelnm": "TV CHOSUN2",
-            "genre": "종편/보도"
-        }
-    },
-    {
-        "C00585.tving": {
-            "channelnm": "TV CHOSUN 2",
-            "genre": "종편/보도"
-        }
-    },
-    {
-        "C2501.wavve": {
-            "channelnm": "채널A",
-            "genre": "종편/보도"
-        }
-    },
-    {
-        "C01583.tving": {
-            "channelnm": "채널A",
-            "genre": "종편/보도"
-        }
-    },
-    {
-        "C2502.wavve": {
-            "channelnm": "채널A 플러스",
-            "genre": "종편/보도"
-        }
-    },
-    {
-        "C17141.tving": {
-            "channelnm": "채널A플러스",
-            "genre": "종편/보도"
-        }
-    },
-    {
-        "C52470.tving": {
-            "channelnm": "채널A NEWS",
-            "genre": "종편/보도"
-        }
-    },
-    {
         "C52389.tving": {
             "channelnm": "MBC 뉴스",
             "genre": "종편/보도"
@@ -377,6 +323,60 @@
     {
         "C17341.tving": {
             "channelnm": "히스토리",
+            "genre": "종편/보도"
+        }
+    },
+    {
+        "C2601.wavve": {
+            "channelnm": "TV CHOSUN",
+            "genre": "종편/보도"
+        }
+    },
+    {
+        "C01581.tving": {
+            "channelnm": "TV CHOSUN",
+            "genre": "종편/보도"
+        }
+    },
+    {
+        "C2602.wavve": {
+            "channelnm": "TV CHOSUN2",
+            "genre": "종편/보도"
+        }
+    },
+    {
+        "C00585.tving": {
+            "channelnm": "TV CHOSUN 2",
+            "genre": "종편/보도"
+        }
+    },
+    {
+        "C2501.wavve": {
+            "channelnm": "채널A",
+            "genre": "종편/보도"
+        }
+    },
+    {
+        "C01583.tving": {
+            "channelnm": "채널A",
+            "genre": "종편/보도"
+        }
+    },
+    {
+        "C2502.wavve": {
+            "channelnm": "채널A 플러스",
+            "genre": "종편/보도"
+        }
+    },
+    {
+        "C17141.tving": {
+            "channelnm": "채널A플러스",
+            "genre": "종편/보도"
+        }
+    },
+    {
+        "C52470.tving": {
+            "channelnm": "채널A NEWS",
             "genre": "종편/보도"
         }
     },

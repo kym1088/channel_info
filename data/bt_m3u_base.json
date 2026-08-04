@@ -1630,6 +1630,13 @@
         "genrenm": "정주행 채널"
     },
     {
+        "channelid": "C4901",
+        "channelnm": "쇼핑엔티",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C4901_logo_20260731141338.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
         "channelid": "C52480",
         "channelnm": "공영홈쇼핑",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260729/0207/C52480.png",

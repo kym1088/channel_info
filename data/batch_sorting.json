@@ -934,6 +934,18 @@
         }
     },
     {
+        "C4901.wavve": {
+            "channelnm": "쇼핑엔티",
+            "genre": "홈쇼핑"
+        }
+    },
+    {
+        "C52480.tving": {
+            "channelnm": "공영홈쇼핑",
+            "genre": "홈쇼핑"
+        }
+    },
+    {
         "K07.wavve": {
             "channelnm": "KBS1RADIO",
             "genre": "라디오/음악"

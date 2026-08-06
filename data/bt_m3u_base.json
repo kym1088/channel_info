@@ -1084,6 +1084,20 @@
         "genrenm": "홈쇼핑"
     },
     {
+        "channelid": "C4901",
+        "channelnm": "쇼핑엔티",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C4901_logo_20260731141338.png",
+        "ott": "wavve",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C52480",
+        "channelnm": "공영홈쇼핑",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260729/0207/C52480.png",
+        "ott": "tving",
+        "genrenm": "홈쇼핑"
+    },
+    {
         "channelid": "K07",
         "channelnm": "KBS1RADIO",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/K07_main_20250826141330.jpg",
@@ -1628,19 +1642,5 @@
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0053/C52365.png",
         "ott": "tving",
         "genrenm": "정주행 채널"
-    },
-    {
-        "channelid": "C4901",
-        "channelnm": "쇼핑엔티",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C4901_logo_20260731141338.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52480",
-        "channelnm": "공영홈쇼핑",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260729/0207/C52480.png",
-        "ott": "tving",
-        "genrenm": "-"
     }
 ]

@@ -1642,5 +1642,12 @@
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0053/C52365.png",
         "ott": "tving",
         "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "J7201",
+        "channelnm": "빌리어즈TV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7201_logo_20260814133306.png",
+        "ott": "wavve",
+        "genrenm": "-"
     }
 ]

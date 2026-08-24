@@ -1649,5 +1649,12 @@
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J7201_logo_20260814133306.png",
         "ott": "wavve",
         "genrenm": "-"
+    },
+    {
+        "channelid": "C52188",
+        "channelnm": "2026 US 오픈 - 팬위크 피드",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260813/0011/C52188.png",
+        "ott": "tving",
+        "genrenm": "-"
     }
 ]

@@ -14,13 +14,6 @@
         "genrenm": "지상파"
     },
     {
-        "channelid": "K01",
-        "channelnm": "KBS 1TV",
-        "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/KBS-1TV-1.jpg",
-        "ott": "wavve",
-        "genrenm": "지상파"
-    },
-    {
         "channelid": "K02",
         "channelnm": "KBS 2TV",
         "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/KBS-2TV-1.jpg",
@@ -39,13 +32,6 @@
         "channelnm": "EBS1",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0504/C00772.png",
         "ott": "tving",
-        "genrenm": "지상파"
-    },
-    {
-        "channelid": "E07",
-        "channelnm": "EBS 2",
-        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/E07.jpg",
-        "ott": "wavve",
         "genrenm": "지상파"
     },
     {
@@ -214,6 +200,13 @@
         "genrenm": "종편/보도"
     },
     {
+        "channelid": "C2605",
+        "channelnm": "TV조선 라이브 뉴스 24시",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C2605_logo_20251017175121.png",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
         "channelid": "C52302",
         "channelnm": "TV CHOSUN NEWS24",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250610/0102/C52302.png",
@@ -249,13 +242,6 @@
         "ott": "bc_sbs",
         "genrenm": "종편/보도",
         "json_name": "CNBC"
-    },
-    {
-        "channelid": "S06",
-        "channelnm": "SBS Biz",
-        "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/S06_Img_20201229154431.jpg",
-        "ott": "wavve",
-        "genrenm": "종편/보도"
     },
     {
         "channelid": "S06",
@@ -310,20 +296,6 @@
         "channelid": "K25",
         "channelnm": "CGTN",
         "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/CGTN-1.jpg",
-        "ott": "wavve",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "K25",
-        "channelnm": "CGTN",
-        "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/CGTN-1.jpg",
-        "ott": "wavve",
-        "genrenm": "종편/보도"
-    },
-    {
-        "channelid": "K12",
-        "channelnm": "CCTV4",
-        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/K12.jpg",
         "ott": "wavve",
         "genrenm": "종편/보도"
     },
@@ -1035,20 +1007,6 @@
         "genrenm": "홈쇼핑"
     },
     {
-        "channelid": "C4101",
-        "channelnm": "현대홈쇼핑",
-        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C4101.jpg",
-        "ott": "wavve",
-        "genrenm": "홈쇼핑"
-    },
-    {
-        "channelid": "C4201",
-        "channelnm": "GS SHOP",
-        "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C4201.jpg",
-        "ott": "wavve",
-        "genrenm": "홈쇼핑"
-    },
-    {
         "channelid": "C4201",
         "channelnm": "GS SHOP",
         "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C4201.jpg",
@@ -1115,13 +1073,6 @@
         "channelid": "C4102",
         "channelnm": "현대홈쇼핑+샵",
         "channelimg": "http://image.wavve.com/BMS/Channelimage30/image/C4101.jpg",
-        "ott": "wavve",
-        "genrenm": "홈쇼핑"
-    },
-    {
-        "channelid": "C8301",
-        "channelnm": "NS홈쇼핑",
-        "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/NShomeshopping-1.jpg",
         "ott": "wavve",
         "genrenm": "홈쇼핑"
     },
@@ -1413,6 +1364,20 @@
         "genrenm": "정주행 채널"
     },
     {
+        "channelid": "C3524",
+        "channelnm": "도깨비",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3524_main_20260707134845.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3525",
+        "channelnm": "철인왕후",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3525_main_20260707135008.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
         "channelid": "K29",
         "channelnm": "KBS 사극",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/K29_main_20250826140725.jpg",
@@ -1441,6 +1406,20 @@
         "genrenm": "정주행 채널"
     },
     {
+        "channelid": "C3521",
+        "channelnm": "호텔 델루나",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3521_main_20260707134333.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3538",
+        "channelnm": "텐트 밖은 유럽",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3538_main_20260722213220.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
         "channelid": "C3540",
         "channelnm": "텐트 밖은 유럽: 로맨틱 이탈리아",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3540_main_20260722214249.jpg",
@@ -1465,6 +1444,13 @@
         "channelid": "K37",
         "channelnm": "KBS 인간극장",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/K37_main_20250826140152.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3522",
+        "channelnm": "나의 아저씨",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3522_main_20260707134444.jpg",
         "ott": "wavve",
         "genrenm": "정주행 채널"
     },
@@ -1525,6 +1511,13 @@
         "genrenm": "정주행 채널"
     },
     {
+        "channelid": "C3526",
+        "channelnm": "미씽: 그들이 있었다2",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3526_main_20260707135208.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
         "channelid": "C3528",
         "channelnm": "대탈출 시즌1",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3528_main_20260722112147.jpg",
@@ -1535,6 +1528,13 @@
         "channelid": "C3529",
         "channelnm": "대탈출 시즌2",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3529_main_20260722113126.jpg",
+        "ott": "wavve",
+        "genrenm": "정주행 채널"
+    },
+    {
+        "channelid": "C3530",
+        "channelnm": "대탈출 시즌3",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3530_main_20260722211719.jpg",
         "ott": "wavve",
         "genrenm": "정주행 채널"
     },

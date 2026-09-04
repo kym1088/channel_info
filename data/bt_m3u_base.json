@@ -1663,5 +1663,26 @@
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
         "ott": "wavve",
         "genrenm": "-"
+    },
+    {
+        "channelid": "C52352",
+        "channelnm": "2026 US 오픈 - 아서 애시 스타디움",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260813/0011/C52352.png",
+        "ott": "tving",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C52493",
+        "channelnm": "2026 US 오픈 - 월드피드",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260824/0127/C52493.png",
+        "ott": "tving",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C52353",
+        "channelnm": "2026 US 오픈 - 루이 암스트롱 스타디움",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260813/0012/C52353.png",
+        "ott": "tving",
+        "genrenm": "-"
     }
 ]

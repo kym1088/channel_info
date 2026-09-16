@@ -1644,16 +1644,16 @@
         "genrenm": "정주행 채널"
     },
     {
-        "channelid": "J7701",
-        "channelnm": "BLOOMBERG TV",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
+        "channelid": "J7201",
+        "channelnm": "빌리어즈TV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7201_logo_20260814133306.png",
         "ott": "wavve",
         "genrenm": "-"
     },
     {
-        "channelid": "J7201",
-        "channelnm": "빌리어즈TV",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7201_logo_20260814133306.png",
+        "channelid": "J7701",
+        "channelnm": "BLOOMBERG TV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
         "ott": "wavve",
         "genrenm": "-"
     },

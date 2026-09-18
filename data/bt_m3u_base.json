@@ -1651,6 +1651,13 @@
         "genrenm": "-"
     },
     {
+        "channelid": "J7801",
+        "channelnm": "AsportsTV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7801_logo_20260901170928.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
         "channelid": "J7701",
         "channelnm": "BLOOMBERG TV",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
@@ -1661,13 +1668,6 @@
         "channelid": "C3541",
         "channelnm": "웨이브 필드캠",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "J7801",
-        "channelnm": "AsportsTV",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7801_logo_20260901170928.png",
         "ott": "wavve",
         "genrenm": "-"
     },

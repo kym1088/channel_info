@@ -1651,6 +1651,13 @@
         "genrenm": "-"
     },
     {
+        "channelid": "C3541",
+        "channelnm": "웨이브 필드캠",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
         "channelid": "J7801",
         "channelnm": "AsportsTV",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J7801_logo_20260901170928.png",
@@ -1662,27 +1669,6 @@
         "channelnm": "BLOOMBERG TV",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
         "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C3541",
-        "channelnm": "웨이브 필드캠",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52310",
-        "channelnm": "2026 KBO 리그 팬덤중계",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0045/C52310.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52311",
-        "channelnm": "2026 KBO 리그 팬덤중계",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0047/C52311.png",
-        "ott": "tving",
         "genrenm": "-"
     },
     {

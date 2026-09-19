@@ -1672,6 +1672,20 @@
         "genrenm": "-"
     },
     {
+        "channelid": "C52310",
+        "channelnm": "2026 KBO 리그 팬덤중계",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0045/C52310.png",
+        "ott": "tving",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C52311",
+        "channelnm": "2026 KBO 리그 팬덤중계",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0047/C52311.png",
+        "ott": "tving",
+        "genrenm": "-"
+    },
+    {
         "channelid": "C52443",
         "channelnm": "CJ 온스타일",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260312/0846/C52443.png",

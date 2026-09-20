@@ -1644,13 +1644,6 @@
         "genrenm": "정주행 채널"
     },
     {
-        "channelid": "C3541",
-        "channelnm": "웨이브 필드캠",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
         "channelid": "J7201",
         "channelnm": "빌리어즈TV",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J7201_logo_20260814133306.png",
@@ -1658,9 +1651,9 @@
         "genrenm": "-"
     },
     {
-        "channelid": "J7701",
-        "channelnm": "BLOOMBERG TV",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
+        "channelid": "C3541",
+        "channelnm": "웨이브 필드캠",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1672,38 +1665,10 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C51950",
-        "channelnm": "2026 KBO 리그",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260311/0458/C51950.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C51949",
-        "channelnm": "2026 KBO 리그",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260311/0457/C51949.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C51850",
-        "channelnm": "2026 KBO 리그",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260311/0453/C51850.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C51951",
-        "channelnm": "2026 KBO 리그",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260311/0500/C51951.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C51851",
-        "channelnm": "2026 KBO 리그",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260713/0103/C51851.png",
-        "ott": "tving",
+        "channelid": "J7701",
+        "channelnm": "BLOOMBERG TV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
+        "ott": "wavve",
         "genrenm": "-"
     },
     {

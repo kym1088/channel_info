@@ -1651,16 +1651,16 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3541",
-        "channelnm": "웨이브 필드캠",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
+        "channelid": "J7801",
+        "channelnm": "AsportsTV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7801_logo_20260901170928.png",
         "ott": "wavve",
         "genrenm": "-"
     },
     {
-        "channelid": "J7801",
-        "channelnm": "AsportsTV",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7801_logo_20260901170928.png",
+        "channelid": "C3541",
+        "channelnm": "웨이브 필드캠",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1669,6 +1669,20 @@
         "channelnm": "BLOOMBERG TV",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
         "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C52130",
+        "channelnm": "2027 KBO 신인 드래프트",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260914/0535/C52130.png",
+        "ott": "tving",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C51650",
+        "channelnm": "WTA 투어",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0103/C51650.png",
+        "ott": "tving",
         "genrenm": "-"
     },
     {

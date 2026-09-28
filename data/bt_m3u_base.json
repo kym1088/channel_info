@@ -71,28 +71,25 @@
         "json_name": "SBS"
     },
     {
-        "channelid": "P02",
-        "channelnm": "MBC 저화질",
-        "channelimg": "https://backup.760515.xyz/logo/MBC.png",
-        "ott": "pjy",
-        "genrenm": "지상파",
-        "channelurl": "https://backup.760515.xyz/playlist/MBC-playlist.m3u8"
+        "channelid": "11",
+        "channelnm": "KBS1",
+        "channelimg": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png",
+        "ott": "bc_kbs",
+        "genrenm": "지상파"
     },
     {
-        "channelid": "P03",
-        "channelnm": "KBS1 저화질",
-        "channelimg": "https://backup.760515.xyz/logo/KBS1.png",
-        "ott": "pjy",
-        "genrenm": "지상파",
-        "channelurl": "https://backup.760515.xyz/playlist/KBS1-playlist.m3u8"
+        "channelid": "12",
+        "channelnm": "KBS2",
+        "channelimg": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621669_433753.png",
+        "ott": "bc_kbs",
+        "genrenm": "지상파"
     },
     {
-        "channelid": "P04",
-        "channelnm": "KBS2 저화질",
-        "channelimg": "https://backup.760515.xyz/logo/KBS2.png",
-        "ott": "pjy",
-        "genrenm": "지상파",
-        "channelurl": "https://backup.760515.xyz/playlist/KBS2-playlist.m3u8"
+        "channelid": "0",
+        "channelnm": "MBC",
+        "channelimg": "https://img.imbc.com/commons/2018/image/main/mbc-logo.png",
+        "ott": "bc_mbc",
+        "genrenm": "지상파"
     },
     {
         "channelid": "C00551",

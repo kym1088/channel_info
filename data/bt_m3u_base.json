@@ -857,6 +857,13 @@
         "genrenm": "스포츠"
     },
     {
+        "channelid": "J7201",
+        "channelnm": "빌리어즈TV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7201_logo_20260814133306.png",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
         "channelid": "J3903",
         "channelnm": "K sports TV",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J3903_logo_20260305104458.png",
@@ -881,6 +888,20 @@
         "channelid": "J3904",
         "channelnm": "아시안투어 LIVE",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J3904_main_20260608165645.jpg",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "C3541",
+        "channelnm": "웨이브 필드캠",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
+        "ott": "wavve",
+        "genrenm": "스포츠"
+    },
+    {
+        "channelid": "J7801",
+        "channelnm": "AsportsTV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7801_logo_20260901170928.png",
         "ott": "wavve",
         "genrenm": "스포츠"
     },
@@ -979,6 +1000,13 @@
         "genrenm": "시사/교양"
     },
     {
+        "channelid": "J7701",
+        "channelnm": "BLOOMBERG TV",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
+        "ott": "wavve",
+        "genrenm": "시사/교양"
+    },
+    {
         "channelid": "C00544",
         "channelnm": "중화TV",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251023/0432/C00544.png",
@@ -1052,6 +1080,13 @@
         "channelid": "C00601",
         "channelnm": "CJ 온스타일+",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260318/0800/C00601.png",
+        "ott": "tving",
+        "genrenm": "홈쇼핑"
+    },
+    {
+        "channelid": "C52443",
+        "channelnm": "CJ 온스타일",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260312/0846/C52443.png",
         "ott": "tving",
         "genrenm": "홈쇼핑"
     },
@@ -1642,40 +1677,5 @@
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0053/C52365.png",
         "ott": "tving",
         "genrenm": "정주행 채널"
-    },
-    {
-        "channelid": "J7801",
-        "channelnm": "AsportsTV",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7801_logo_20260901170928.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C3541",
-        "channelnm": "웨이브 필드캠",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "J7201",
-        "channelnm": "빌리어즈TV",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7201_logo_20260814133306.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "J7701",
-        "channelnm": "BLOOMBERG TV",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/J7701_logo_20260904095234.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52443",
-        "channelnm": "CJ 온스타일",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260312/0846/C52443.png",
-        "ott": "tving",
-        "genrenm": "-"
     }
 ]

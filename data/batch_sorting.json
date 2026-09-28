@@ -739,6 +739,12 @@
         }
     },
     {
+        "J7201.wavve": {
+            "channelnm": "빌리어즈TV",
+            "genre": "스포츠"
+        }
+    },
+    {
         "J3903.wavve": {
             "channelnm": "K sports TV",
             "genre": "스포츠"
@@ -759,6 +765,18 @@
     {
         "J3904.wavve": {
             "channelnm": "아시안투어 LIVE",
+            "genre": "스포츠"
+        }
+    },
+    {
+        "C3541.wavve": {
+            "channelnm": "웨이브 필드캠",
+            "genre": "스포츠"
+        }
+    },
+    {
+        "J7801.wavve": {
+            "channelnm": "AsportsTV",
             "genre": "스포츠"
         }
     },
@@ -844,6 +862,12 @@
         }
     },
     {
+        "J7701.wavve": {
+            "channelnm": "BLOOMBERG TV",
+            "genre": "시사/교양"
+        }
+    },
+    {
         "C00544.tving": {
             "channelnm": "중화TV",
             "genre": "시사/교양"
@@ -905,6 +929,12 @@
     },
     {
         "C00601.tving": {
+            "channelnm": "CJ 온스타일",
+            "genre": "홈쇼핑"
+        }
+    },
+    {
+        "C52443.tving": {
             "channelnm": "CJ 온스타일",
             "genre": "홈쇼핑"
         }

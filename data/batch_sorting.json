@@ -61,6 +61,24 @@
         }
     },
     {
+        "11.bc_kbs": {
+            "channelnm": "KBS1",
+            "genre": "지상파"
+        }
+    },
+    {
+        "12.bc_kbs": {
+            "channelnm": "KBS2",
+            "genre": "지상파"
+        }
+    },
+    {
+        "0.bc_mbc": {
+            "channelnm": "MBC",
+            "genre": "지상파"
+        }
+    },
+    {
         "P02.pjy": {
             "channelnm": "MBC 저화질",
             "genre": "지상파"

@@ -81065,159 +81065,131 @@
             "ott": "tving"
         }
     ],
-    "C04601.tving": [
+    "C07381.tving": [
         {
-            "channelid": "C04601",
-            "title": "NCIS 시즌8",
-            "startTime": "20260928084000",
-            "endTime": "20260928094000",
+            "channelid": "C07381",
+            "title": "더블 타겟",
+            "startTime": "20260928085000",
+            "endTime": "20260928112000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "NCIS 시즌8",
-            "startTime": "20260928094000",
-            "endTime": "20260928105000",
+            "channelid": "C07381",
+            "title": "공조",
+            "startTime": "20260928112000",
+            "endTime": "20260928140000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "헤어질 결심",
-            "startTime": "20260928105000",
-            "endTime": "20260928133000",
+            "channelid": "C07381",
+            "title": "보통의 가족",
+            "startTime": "20260928140000",
+            "endTime": "20260928161000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "신과 함께-죄와 벌",
-            "startTime": "20260928133000",
-            "endTime": "20260928162000",
+            "channelid": "C07381",
+            "title": "악의 도시",
+            "startTime": "20260928161000",
+            "endTime": "20260928181000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "보이스",
-            "startTime": "20260928162000",
-            "endTime": "20260928182000",
+            "channelid": "C07381",
+            "title": "콘스탄틴",
+            "startTime": "20260928181000",
+            "endTime": "20260928202000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "인턴",
-            "startTime": "20260928182000",
-            "endTime": "20260928204000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04601",
-            "title": "전우치",
-            "startTime": "20260928204000",
+            "channelid": "C07381",
+            "title": "한산 리덕스",
+            "startTime": "20260928202000",
             "endTime": "20260928230000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "시카고 PD 시즌13",
+            "channelid": "C07381",
+            "title": "야당: 익스텐디드 컷",
             "startTime": "20260928230000",
-            "endTime": "20260928235000",
+            "endTime": "20260929011000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "시카고 PD 시즌13",
-            "startTime": "20260928235000",
-            "endTime": "20260929004000",
+            "channelid": "C07381",
+            "title": "황제를 위하여",
+            "startTime": "20260929011000",
+            "endTime": "20260929030000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "싸움의 기술",
-            "startTime": "20260929004000",
-            "endTime": "20260929025000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04601",
-            "title": "우리가 끝이야",
-            "startTime": "20260929025000",
+            "channelid": "C07381",
+            "title": "화이트 버드",
+            "startTime": "20260929030000",
             "endTime": "20260929052000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "킹덤4: 대장군의 귀환",
+            "channelid": "C07381",
+            "title": "더 히어로",
             "startTime": "20260929052000",
-            "endTime": "20260929080000",
+            "endTime": "20260929071000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "NCIS 시즌8",
-            "startTime": "20260929080000",
-            "endTime": "20260929090000",
+            "channelid": "C07381",
+            "title": "글래디에이터",
+            "startTime": "20260929071000",
+            "endTime": "20260929095000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "NCIS 시즌8",
-            "startTime": "20260929090000",
-            "endTime": "20260929100000",
+            "channelid": "C07381",
+            "title": "글래디에이터2",
+            "startTime": "20260929095000",
+            "endTime": "20260929122000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "NCIS 시즌8",
-            "startTime": "20260929100000",
-            "endTime": "20260929110000",
+            "channelid": "C07381",
+            "title": "검은 수녀들",
+            "startTime": "20260929122000",
+            "endTime": "20260929143000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "나도 아내가 있었으면 좋겠다",
-            "startTime": "20260929110000",
-            "endTime": "20260929130000",
+            "channelid": "C07381",
+            "title": "남산의 부장들",
+            "startTime": "20260929143000",
+            "endTime": "20260929163000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "시카고 PD 시즌13",
-            "startTime": "20260929130000",
-            "endTime": "20260929140000",
+            "channelid": "C07381",
+            "title": "필사의 추격",
+            "startTime": "20260929163000",
+            "endTime": "20260929183000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "시카고 PD 시즌13",
-            "startTime": "20260929140000",
-            "endTime": "20260929150000",
+            "channelid": "C07381",
+            "title": "쇼생크 탈출",
+            "startTime": "20260929183000",
+            "endTime": "20260929210000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "인턴",
-            "startTime": "20260929150000",
-            "endTime": "20260929171000",
+            "channelid": "C07381",
+            "title": "어쩔수가없다",
+            "startTime": "20260929210000",
+            "endTime": "20260929233000",
             "ott": "tving"
         },
         {
-            "channelid": "C04601",
-            "title": "명량",
-            "startTime": "20260929171000",
-            "endTime": "20260929193000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04601",
-            "title": "1987",
-            "startTime": "20260929193000",
-            "endTime": "20260929215000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C04601",
-            "title": "매트릭스",
-            "startTime": "20260929215000",
-            "endTime": "20260930001000",
+            "channelid": "C07381",
+            "title": "더 이퀄라이저 3",
+            "startTime": "20260929233000",
+            "endTime": "20260930021000",
             "ott": "tving"
         }
     ],
@@ -81346,6 +81318,169 @@
             "title": "내가 살인범이다",
             "startTime": "20260929224000",
             "endTime": "20260930005000",
+            "ott": "tving"
+        }
+    ],
+    "C01141.tving": [
+        {
+            "channelid": "C01141",
+            "title": "유별난 역사 한 끼",
+            "startTime": "20260928084500",
+            "endTime": "20260928100000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "벌거벗은 세계사",
+            "startTime": "20260928100000",
+            "endTime": "20260928114000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "벌거벗은 세계사",
+            "startTime": "20260928114000",
+            "endTime": "20260928134500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "윤스테이",
+            "startTime": "20260928134500",
+            "endTime": "20260928155000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "윤스테이",
+            "startTime": "20260928155000",
+            "endTime": "20260928175500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "우주떡집",
+            "startTime": "20260928175500",
+            "endTime": "20260928193500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "유 퀴즈 온 더 블럭",
+            "startTime": "20260928193500",
+            "endTime": "20260928215500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "벌거벗은 세계사",
+            "startTime": "20260928215500",
+            "endTime": "20260928234000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "여권들고 등짝 스매싱",
+            "startTime": "20260928234000",
+            "endTime": "20260929012000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "여권들고 등짝 스매싱",
+            "startTime": "20260929012000",
+            "endTime": "20260929024000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "여권들고 등짝 스매싱",
+            "startTime": "20260929024000",
+            "endTime": "20260929041000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "여권들고 등짝 스매싱",
+            "startTime": "20260929041000",
+            "endTime": "20260929054000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "여권들고 등짝 스매싱",
+            "startTime": "20260929054000",
+            "endTime": "20260929073000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "유별난 역사 한 끼",
+            "startTime": "20260929073000",
+            "endTime": "20260929090000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "유별난 역사 한 끼",
+            "startTime": "20260929090000",
+            "endTime": "20260929103000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "벌거벗은 세계사",
+            "startTime": "20260929103000",
+            "endTime": "20260929120000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "벌거벗은 세계사",
+            "startTime": "20260929120000",
+            "endTime": "20260929134000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "윤스테이",
+            "startTime": "20260929134000",
+            "endTime": "20260929153000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "윤스테이",
+            "startTime": "20260929153000",
+            "endTime": "20260929172000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "식스센스: B사이드",
+            "startTime": "20260929172000",
+            "endTime": "20260929184000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "유 퀴즈 온 더 블럭",
+            "startTime": "20260929184000",
+            "endTime": "20260929210000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "우주떡집",
+            "startTime": "20260929210000",
+            "endTime": "20260929224000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C01141",
+            "title": "식스센스: B사이드",
+            "startTime": "20260929224000",
+            "endTime": "20260930001000",
             "ott": "tving"
         }
     ],
@@ -82709,330 +82844,6 @@
             "title": "넝쿨째 굴러온 당신 03회",
             "startTime": "20260929231200",
             "endTime": "20260930001400",
-            "ott": "tving"
-        }
-    ],
-    "C52367.tving": [
-        {
-            "channelid": "C52367",
-            "title": "대조영 56회",
-            "startTime": "20260928083400",
-            "endTime": "20260928093100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 57회",
-            "startTime": "20260928093100",
-            "endTime": "20260928102800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 58회",
-            "startTime": "20260928102800",
-            "endTime": "20260928112500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 59회",
-            "startTime": "20260928112500",
-            "endTime": "20260928122200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 60회",
-            "startTime": "20260928122200",
-            "endTime": "20260928131300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 61회",
-            "startTime": "20260928131300",
-            "endTime": "20260928141100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 62회",
-            "startTime": "20260928141100",
-            "endTime": "20260928150700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 63회",
-            "startTime": "20260928150700",
-            "endTime": "20260928160300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 64회",
-            "startTime": "20260928160300",
-            "endTime": "20260928165900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 65회",
-            "startTime": "20260928165900",
-            "endTime": "20260928175500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 66회",
-            "startTime": "20260928175500",
-            "endTime": "20260928185200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 67회",
-            "startTime": "20260928185200",
-            "endTime": "20260928195000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 68회",
-            "startTime": "20260928195000",
-            "endTime": "20260928204700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 69회",
-            "startTime": "20260928204700",
-            "endTime": "20260928214200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 70회",
-            "startTime": "20260928214200",
-            "endTime": "20260928223600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 71회",
-            "startTime": "20260928223600",
-            "endTime": "20260928232600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 72회",
-            "startTime": "20260928232600",
-            "endTime": "20260929001600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 73회",
-            "startTime": "20260929001600",
-            "endTime": "20260929010600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 74회",
-            "startTime": "20260929010600",
-            "endTime": "20260929015600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 75회",
-            "startTime": "20260929015600",
-            "endTime": "20260929024700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 76회",
-            "startTime": "20260929024700",
-            "endTime": "20260929033700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 77회",
-            "startTime": "20260929033700",
-            "endTime": "20260929042700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 78회",
-            "startTime": "20260929042700",
-            "endTime": "20260929051700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 79회",
-            "startTime": "20260929051700",
-            "endTime": "20260929060800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 80회",
-            "startTime": "20260929060800",
-            "endTime": "20260929065800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 81회",
-            "startTime": "20260929065800",
-            "endTime": "20260929074900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 82회",
-            "startTime": "20260929074900",
-            "endTime": "20260929084000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 83회",
-            "startTime": "20260929084000",
-            "endTime": "20260929093100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 84회",
-            "startTime": "20260929093100",
-            "endTime": "20260929102200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 85회",
-            "startTime": "20260929102200",
-            "endTime": "20260929111300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 86회",
-            "startTime": "20260929111300",
-            "endTime": "20260929120300",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 87회",
-            "startTime": "20260929120300",
-            "endTime": "20260929125500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 88회",
-            "startTime": "20260929125500",
-            "endTime": "20260929134600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 89회",
-            "startTime": "20260929134600",
-            "endTime": "20260929143600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 90회",
-            "startTime": "20260929143600",
-            "endTime": "20260929152800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 91회",
-            "startTime": "20260929152800",
-            "endTime": "20260929161900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 92회",
-            "startTime": "20260929161900",
-            "endTime": "20260929170800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 93회",
-            "startTime": "20260929170800",
-            "endTime": "20260929175900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 94회",
-            "startTime": "20260929175900",
-            "endTime": "20260929184700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 95회",
-            "startTime": "20260929184700",
-            "endTime": "20260929193800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 96회",
-            "startTime": "20260929193800",
-            "endTime": "20260929203000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 97회",
-            "startTime": "20260929203000",
-            "endTime": "20260929212000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 98회",
-            "startTime": "20260929212000",
-            "endTime": "20260929221200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 99회",
-            "startTime": "20260929221200",
-            "endTime": "20260929230200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 100회",
-            "startTime": "20260929230200",
-            "endTime": "20260929235700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C52367",
-            "title": "대조영 101회",
-            "startTime": "20260929235700",
-            "endTime": "20260930004800",
             "ott": "tving"
         }
     ],
@@ -85716,6 +85527,218 @@
             "ott": "tving"
         }
     ],
+    "C00579.tving": [
+        {
+            "channelid": "C00579",
+            "title": "EVNNE Hour",
+            "startTime": "20260928084000",
+            "endTime": "20260928094000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "스트릿 월드 파이터 : 디렉터스 워",
+            "startTime": "20260928094000",
+            "endTime": "20260928120000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "연지곤지 : YZKZ",
+            "startTime": "20260928120000",
+            "endTime": "20260928135000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "라꼰즈",
+            "startTime": "20260928135000",
+            "endTime": "20260928143000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "최씨크루",
+            "startTime": "20260928143000",
+            "endTime": "20260928150000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "Daily Music Talk",
+            "startTime": "20260928150000",
+            "endTime": "20260928160000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "식스센스 시티투어",
+            "startTime": "20260928160000",
+            "endTime": "20260928175000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "Live on M",
+            "startTime": "20260928175000",
+            "endTime": "20260928185000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "한도초과",
+            "startTime": "20260928185000",
+            "endTime": "20260928201000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "뿅뿅 지구오락실 3",
+            "startTime": "20260928201000",
+            "endTime": "20260928222000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "라꼰즈",
+            "startTime": "20260928222000",
+            "endTime": "20260928230000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "스트릿 월드 파이터 : 디렉터스 워",
+            "startTime": "20260928230000",
+            "endTime": "20260929012000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "킬잇",
+            "startTime": "20260929012000",
+            "endTime": "20260929032000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "Music Express",
+            "startTime": "20260929032000",
+            "endTime": "20260929042000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "WORLD OF ARrC",
+            "startTime": "20260929042000",
+            "endTime": "20260929052000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "월급루팡 에이티즈",
+            "startTime": "20260929052000",
+            "endTime": "20260929062000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "동네스타K쇼",
+            "startTime": "20260929062000",
+            "endTime": "20260929065000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "M morning",
+            "startTime": "20260929065000",
+            "endTime": "20260929075000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "레벨업 프로젝트 시즌6",
+            "startTime": "20260929075000",
+            "endTime": "20260929090000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "연지곤지 : YZKZ",
+            "startTime": "20260929090000",
+            "endTime": "20260929105000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "라꼰즈",
+            "startTime": "20260929105000",
+            "endTime": "20260929113000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "무쇠소녀단2",
+            "startTime": "20260929113000",
+            "endTime": "20260929132000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "스트릿 월드 파이터 : 디렉터스 워",
+            "startTime": "20260929132000",
+            "endTime": "20260929154000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "Daily Music Talk",
+            "startTime": "20260929154000",
+            "endTime": "20260929164000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "라꼰즈",
+            "startTime": "20260929164000",
+            "endTime": "20260929172000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "조현아의 평범한 목요일 밤",
+            "startTime": "20260929172000",
+            "endTime": "20260929175000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "Live on M",
+            "startTime": "20260929175000",
+            "endTime": "20260929185000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "뿅뿅 지구오락실 3",
+            "startTime": "20260929185000",
+            "endTime": "20260929210000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "스트릿 월드 파이터 : 디렉터스 워 스페셜",
+            "startTime": "20260929210000",
+            "endTime": "20260929220000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C00579",
+            "title": "스트릿 월드 파이터 : 디렉터스 워",
+            "startTime": "20260929220000",
+            "endTime": "20260930004000",
+            "ott": "tving"
+        }
+    ],
     "C01143.tving": [
         {
             "channelid": "C01143",
@@ -85925,134 +85948,6 @@
             "title": "포핸즈",
             "startTime": "20260929233000",
             "endTime": "20260930005000",
-            "ott": "tving"
-        }
-    ],
-    "C07381.tving": [
-        {
-            "channelid": "C07381",
-            "title": "더블 타겟",
-            "startTime": "20260928085000",
-            "endTime": "20260928112000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "공조",
-            "startTime": "20260928112000",
-            "endTime": "20260928140000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "보통의 가족",
-            "startTime": "20260928140000",
-            "endTime": "20260928161000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "악의 도시",
-            "startTime": "20260928161000",
-            "endTime": "20260928181000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "콘스탄틴",
-            "startTime": "20260928181000",
-            "endTime": "20260928202000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "한산 리덕스",
-            "startTime": "20260928202000",
-            "endTime": "20260928230000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "야당: 익스텐디드 컷",
-            "startTime": "20260928230000",
-            "endTime": "20260929011000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "황제를 위하여",
-            "startTime": "20260929011000",
-            "endTime": "20260929030000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "화이트 버드",
-            "startTime": "20260929030000",
-            "endTime": "20260929052000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "더 히어로",
-            "startTime": "20260929052000",
-            "endTime": "20260929071000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "글래디에이터",
-            "startTime": "20260929071000",
-            "endTime": "20260929095000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "글래디에이터2",
-            "startTime": "20260929095000",
-            "endTime": "20260929122000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "검은 수녀들",
-            "startTime": "20260929122000",
-            "endTime": "20260929143000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "남산의 부장들",
-            "startTime": "20260929143000",
-            "endTime": "20260929163000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "필사의 추격",
-            "startTime": "20260929163000",
-            "endTime": "20260929183000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "쇼생크 탈출",
-            "startTime": "20260929183000",
-            "endTime": "20260929210000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "어쩔수가없다",
-            "startTime": "20260929210000",
-            "endTime": "20260929233000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C07381",
-            "title": "더 이퀄라이저 3",
-            "startTime": "20260929233000",
-            "endTime": "20260930021000",
             "ott": "tving"
         }
     ],
@@ -86331,165 +86226,158 @@
             "ott": "tving"
         }
     ],
-    "C01141.tving": [
+    "C04601.tving": [
         {
-            "channelid": "C01141",
-            "title": "유별난 역사 한 끼",
-            "startTime": "20260928084500",
-            "endTime": "20260928100000",
+            "channelid": "C04601",
+            "title": "NCIS 시즌8",
+            "startTime": "20260928084000",
+            "endTime": "20260928094000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "벌거벗은 세계사",
-            "startTime": "20260928100000",
-            "endTime": "20260928114000",
+            "channelid": "C04601",
+            "title": "NCIS 시즌8",
+            "startTime": "20260928094000",
+            "endTime": "20260928105000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "벌거벗은 세계사",
-            "startTime": "20260928114000",
-            "endTime": "20260928134500",
+            "channelid": "C04601",
+            "title": "헤어질 결심",
+            "startTime": "20260928105000",
+            "endTime": "20260928133000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "윤스테이",
-            "startTime": "20260928134500",
-            "endTime": "20260928155000",
+            "channelid": "C04601",
+            "title": "신과 함께-죄와 벌",
+            "startTime": "20260928133000",
+            "endTime": "20260928162000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "윤스테이",
-            "startTime": "20260928155000",
-            "endTime": "20260928175500",
+            "channelid": "C04601",
+            "title": "보이스",
+            "startTime": "20260928162000",
+            "endTime": "20260928182000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "우주떡집",
-            "startTime": "20260928175500",
-            "endTime": "20260928193500",
+            "channelid": "C04601",
+            "title": "인턴",
+            "startTime": "20260928182000",
+            "endTime": "20260928204000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "유 퀴즈 온 더 블럭",
-            "startTime": "20260928193500",
-            "endTime": "20260928215500",
+            "channelid": "C04601",
+            "title": "전우치",
+            "startTime": "20260928204000",
+            "endTime": "20260928230000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "벌거벗은 세계사",
-            "startTime": "20260928215500",
-            "endTime": "20260928234000",
+            "channelid": "C04601",
+            "title": "시카고 PD 시즌13",
+            "startTime": "20260928230000",
+            "endTime": "20260928235000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "여권들고 등짝 스매싱",
-            "startTime": "20260928234000",
-            "endTime": "20260929012000",
+            "channelid": "C04601",
+            "title": "시카고 PD 시즌13",
+            "startTime": "20260928235000",
+            "endTime": "20260929004000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "여권들고 등짝 스매싱",
-            "startTime": "20260929012000",
-            "endTime": "20260929024000",
+            "channelid": "C04601",
+            "title": "싸움의 기술",
+            "startTime": "20260929004000",
+            "endTime": "20260929025000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "여권들고 등짝 스매싱",
-            "startTime": "20260929024000",
-            "endTime": "20260929041000",
+            "channelid": "C04601",
+            "title": "우리가 끝이야",
+            "startTime": "20260929025000",
+            "endTime": "20260929052000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "여권들고 등짝 스매싱",
-            "startTime": "20260929041000",
-            "endTime": "20260929054000",
+            "channelid": "C04601",
+            "title": "킹덤4: 대장군의 귀환",
+            "startTime": "20260929052000",
+            "endTime": "20260929080000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "여권들고 등짝 스매싱",
-            "startTime": "20260929054000",
-            "endTime": "20260929073000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C01141",
-            "title": "유별난 역사 한 끼",
-            "startTime": "20260929073000",
+            "channelid": "C04601",
+            "title": "NCIS 시즌8",
+            "startTime": "20260929080000",
             "endTime": "20260929090000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "유별난 역사 한 끼",
+            "channelid": "C04601",
+            "title": "NCIS 시즌8",
             "startTime": "20260929090000",
-            "endTime": "20260929103000",
+            "endTime": "20260929100000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "벌거벗은 세계사",
-            "startTime": "20260929103000",
-            "endTime": "20260929120000",
+            "channelid": "C04601",
+            "title": "NCIS 시즌8",
+            "startTime": "20260929100000",
+            "endTime": "20260929110000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "벌거벗은 세계사",
-            "startTime": "20260929120000",
-            "endTime": "20260929134000",
+            "channelid": "C04601",
+            "title": "나도 아내가 있었으면 좋겠다",
+            "startTime": "20260929110000",
+            "endTime": "20260929130000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "윤스테이",
-            "startTime": "20260929134000",
-            "endTime": "20260929153000",
+            "channelid": "C04601",
+            "title": "시카고 PD 시즌13",
+            "startTime": "20260929130000",
+            "endTime": "20260929140000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "윤스테이",
-            "startTime": "20260929153000",
-            "endTime": "20260929172000",
+            "channelid": "C04601",
+            "title": "시카고 PD 시즌13",
+            "startTime": "20260929140000",
+            "endTime": "20260929150000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "식스센스: B사이드",
-            "startTime": "20260929172000",
-            "endTime": "20260929184000",
+            "channelid": "C04601",
+            "title": "인턴",
+            "startTime": "20260929150000",
+            "endTime": "20260929171000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "유 퀴즈 온 더 블럭",
-            "startTime": "20260929184000",
-            "endTime": "20260929210000",
+            "channelid": "C04601",
+            "title": "명량",
+            "startTime": "20260929171000",
+            "endTime": "20260929193000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "우주떡집",
-            "startTime": "20260929210000",
-            "endTime": "20260929224000",
+            "channelid": "C04601",
+            "title": "1987",
+            "startTime": "20260929193000",
+            "endTime": "20260929215000",
             "ott": "tving"
         },
         {
-            "channelid": "C01141",
-            "title": "식스센스: B사이드",
-            "startTime": "20260929224000",
+            "channelid": "C04601",
+            "title": "매트릭스",
+            "startTime": "20260929215000",
             "endTime": "20260930001000",
             "ott": "tving"
         }
@@ -88006,218 +87894,6 @@
             "title": "[나는 돌싱-2탄] 연애전쟁",
             "startTime": "20260929220000",
             "endTime": "20260930000000",
-            "ott": "tving"
-        }
-    ],
-    "C17141.tving": [
-        {
-            "channelid": "C17141",
-            "title": "[당진 여행] 고두심이 좋아서",
-            "startTime": "20260928083000",
-            "endTime": "20260928093000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[김상혁X아유미] 신랑수업 2",
-            "startTime": "20260928093000",
-            "endTime": "20260928110000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[김상혁X김성수] 신랑수업 2",
-            "startTime": "20260928110000",
-            "endTime": "20260928123000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "탐정들의 영업비밀 충격실화극",
-            "startTime": "20260928123000",
-            "endTime": "20260928135000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "탐정들의 영업비밀 충격실화극",
-            "startTime": "20260928135000",
-            "endTime": "20260928151000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[북한 김부장]이제 만나러 갑니다",
-            "startTime": "20260928151000",
-            "endTime": "20260928165000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[핵을 멈출 기회] 이제 만나러 갑니다",
-            "startTime": "20260928165000",
-            "endTime": "20260928183000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[김창옥] 고두심이 좋아서",
-            "startTime": "20260928183000",
-            "endTime": "20260928193000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "탐정들의 영업비밀 충격실화극",
-            "startTime": "20260928193000",
-            "endTime": "20260928205000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[김정은X트럼프 재회?] 이제 만나러 갑니다",
-            "startTime": "20260928205000",
-            "endTime": "20260928223000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "이제 만나러 갑니다 닫힌 나라의 삶",
-            "startTime": "20260928223000",
-            "endTime": "20260929000000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[방금 놓친] 탐정들의 영업비밀",
-            "startTime": "20260929000000",
-            "endTime": "20260929021000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "탐정들의 영업비밀 충격실화극",
-            "startTime": "20260929021000",
-            "endTime": "20260929030000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "채널A 스페셜 극한 탐험 기상 이변의 현장",
-            "startTime": "20260929030000",
-            "endTime": "20260929033000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "채널A 스페셜 극한 탐험 기상 이변의 현장",
-            "startTime": "20260929033000",
-            "endTime": "20260929040000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "채널A 스페셜 구해줘 전원주택 시즌33",
-            "startTime": "20260929040000",
-            "endTime": "20260929050000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "채널A 스페셜 혹독한 알래스카 생존기 시즌12",
-            "startTime": "20260929050000",
-            "endTime": "20260929060000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "생존의 단서 블랙박스",
-            "startTime": "20260929060000",
-            "endTime": "20260929070000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[사위의 남자]  탐정들의 영업비밀",
-            "startTime": "20260929070000",
-            "endTime": "20260929083000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[김진] 고두심이 좋아서",
-            "startTime": "20260929083000",
-            "endTime": "20260929093000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[김상혁X김성수] 신랑수업 2",
-            "startTime": "20260929093000",
-            "endTime": "20260929110000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[조준현X조준호] 신랑수업 2",
-            "startTime": "20260929110000",
-            "endTime": "20260929123000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "탐정들의 영업비밀 충격실화극",
-            "startTime": "20260929123000",
-            "endTime": "20260929135000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "탐정들의 영업비밀 충격실화극",
-            "startTime": "20260929135000",
-            "endTime": "20260929151000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[핵을 멈출 기회] 이제 만나러 갑니다",
-            "startTime": "20260929151000",
-            "endTime": "20260929165000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[DMZ 도보탈북] 이제 만나러 갑니다",
-            "startTime": "20260929165000",
-            "endTime": "20260929183000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[충주 여행] 고두심이 좋아서",
-            "startTime": "20260929183000",
-            "endTime": "20260929194000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[동창회 비밀] 탐정들의 영업비밀",
-            "startTime": "20260929194000",
-            "endTime": "20260929215000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "탐정들의 영업비밀 충격실화극",
-            "startTime": "20260929215000",
-            "endTime": "20260929233000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C17141",
-            "title": "[방금 놓친] 타임슬립 천일야사",
-            "startTime": "20260929233000",
-            "endTime": "20260930011000",
             "ott": "tving"
         }
     ],
@@ -91075,6 +90751,330 @@
             "ott": "tving"
         }
     ],
+    "C52367.tving": [
+        {
+            "channelid": "C52367",
+            "title": "대조영 56회",
+            "startTime": "20260928083400",
+            "endTime": "20260928093100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 57회",
+            "startTime": "20260928093100",
+            "endTime": "20260928102800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 58회",
+            "startTime": "20260928102800",
+            "endTime": "20260928112500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 59회",
+            "startTime": "20260928112500",
+            "endTime": "20260928122200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 60회",
+            "startTime": "20260928122200",
+            "endTime": "20260928131300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 61회",
+            "startTime": "20260928131300",
+            "endTime": "20260928141100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 62회",
+            "startTime": "20260928141100",
+            "endTime": "20260928150700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 63회",
+            "startTime": "20260928150700",
+            "endTime": "20260928160300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 64회",
+            "startTime": "20260928160300",
+            "endTime": "20260928165900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 65회",
+            "startTime": "20260928165900",
+            "endTime": "20260928175500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 66회",
+            "startTime": "20260928175500",
+            "endTime": "20260928185200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 67회",
+            "startTime": "20260928185200",
+            "endTime": "20260928195000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 68회",
+            "startTime": "20260928195000",
+            "endTime": "20260928204700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 69회",
+            "startTime": "20260928204700",
+            "endTime": "20260928214200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 70회",
+            "startTime": "20260928214200",
+            "endTime": "20260928223600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 71회",
+            "startTime": "20260928223600",
+            "endTime": "20260928232600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 72회",
+            "startTime": "20260928232600",
+            "endTime": "20260929001600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 73회",
+            "startTime": "20260929001600",
+            "endTime": "20260929010600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 74회",
+            "startTime": "20260929010600",
+            "endTime": "20260929015600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 75회",
+            "startTime": "20260929015600",
+            "endTime": "20260929024700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 76회",
+            "startTime": "20260929024700",
+            "endTime": "20260929033700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 77회",
+            "startTime": "20260929033700",
+            "endTime": "20260929042700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 78회",
+            "startTime": "20260929042700",
+            "endTime": "20260929051700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 79회",
+            "startTime": "20260929051700",
+            "endTime": "20260929060800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 80회",
+            "startTime": "20260929060800",
+            "endTime": "20260929065800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 81회",
+            "startTime": "20260929065800",
+            "endTime": "20260929074900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 82회",
+            "startTime": "20260929074900",
+            "endTime": "20260929084000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 83회",
+            "startTime": "20260929084000",
+            "endTime": "20260929093100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 84회",
+            "startTime": "20260929093100",
+            "endTime": "20260929102200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 85회",
+            "startTime": "20260929102200",
+            "endTime": "20260929111300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 86회",
+            "startTime": "20260929111300",
+            "endTime": "20260929120300",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 87회",
+            "startTime": "20260929120300",
+            "endTime": "20260929125500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 88회",
+            "startTime": "20260929125500",
+            "endTime": "20260929134600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 89회",
+            "startTime": "20260929134600",
+            "endTime": "20260929143600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 90회",
+            "startTime": "20260929143600",
+            "endTime": "20260929152800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 91회",
+            "startTime": "20260929152800",
+            "endTime": "20260929161900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 92회",
+            "startTime": "20260929161900",
+            "endTime": "20260929170800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 93회",
+            "startTime": "20260929170800",
+            "endTime": "20260929175900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 94회",
+            "startTime": "20260929175900",
+            "endTime": "20260929184700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 95회",
+            "startTime": "20260929184700",
+            "endTime": "20260929193800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 96회",
+            "startTime": "20260929193800",
+            "endTime": "20260929203000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 97회",
+            "startTime": "20260929203000",
+            "endTime": "20260929212000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 98회",
+            "startTime": "20260929212000",
+            "endTime": "20260929221200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 99회",
+            "startTime": "20260929221200",
+            "endTime": "20260929230200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 100회",
+            "startTime": "20260929230200",
+            "endTime": "20260929235700",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C52367",
+            "title": "대조영 101회",
+            "startTime": "20260929235700",
+            "endTime": "20260930004800",
+            "ott": "tving"
+        }
+    ],
     "C52407.tving": [
         {
             "channelid": "C52407",
@@ -92153,218 +92153,6 @@
             "title": "한문철의 블랙박스 리뷰",
             "startTime": "20260929215000",
             "endTime": "20260930000000",
-            "ott": "tving"
-        }
-    ],
-    "C00579.tving": [
-        {
-            "channelid": "C00579",
-            "title": "EVNNE Hour",
-            "startTime": "20260928084000",
-            "endTime": "20260928094000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "스트릿 월드 파이터 : 디렉터스 워",
-            "startTime": "20260928094000",
-            "endTime": "20260928120000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "연지곤지 : YZKZ",
-            "startTime": "20260928120000",
-            "endTime": "20260928135000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "라꼰즈",
-            "startTime": "20260928135000",
-            "endTime": "20260928143000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "최씨크루",
-            "startTime": "20260928143000",
-            "endTime": "20260928150000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "Daily Music Talk",
-            "startTime": "20260928150000",
-            "endTime": "20260928160000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "식스센스 시티투어",
-            "startTime": "20260928160000",
-            "endTime": "20260928175000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "Live on M",
-            "startTime": "20260928175000",
-            "endTime": "20260928185000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "한도초과",
-            "startTime": "20260928185000",
-            "endTime": "20260928201000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "뿅뿅 지구오락실 3",
-            "startTime": "20260928201000",
-            "endTime": "20260928222000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "라꼰즈",
-            "startTime": "20260928222000",
-            "endTime": "20260928230000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "스트릿 월드 파이터 : 디렉터스 워",
-            "startTime": "20260928230000",
-            "endTime": "20260929012000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "킬잇",
-            "startTime": "20260929012000",
-            "endTime": "20260929032000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "Music Express",
-            "startTime": "20260929032000",
-            "endTime": "20260929042000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "WORLD OF ARrC",
-            "startTime": "20260929042000",
-            "endTime": "20260929052000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "월급루팡 에이티즈",
-            "startTime": "20260929052000",
-            "endTime": "20260929062000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "동네스타K쇼",
-            "startTime": "20260929062000",
-            "endTime": "20260929065000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "M morning",
-            "startTime": "20260929065000",
-            "endTime": "20260929075000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "레벨업 프로젝트 시즌6",
-            "startTime": "20260929075000",
-            "endTime": "20260929090000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "연지곤지 : YZKZ",
-            "startTime": "20260929090000",
-            "endTime": "20260929105000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "라꼰즈",
-            "startTime": "20260929105000",
-            "endTime": "20260929113000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "무쇠소녀단2",
-            "startTime": "20260929113000",
-            "endTime": "20260929132000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "스트릿 월드 파이터 : 디렉터스 워",
-            "startTime": "20260929132000",
-            "endTime": "20260929154000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "Daily Music Talk",
-            "startTime": "20260929154000",
-            "endTime": "20260929164000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "라꼰즈",
-            "startTime": "20260929164000",
-            "endTime": "20260929172000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "조현아의 평범한 목요일 밤",
-            "startTime": "20260929172000",
-            "endTime": "20260929175000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "Live on M",
-            "startTime": "20260929175000",
-            "endTime": "20260929185000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "뿅뿅 지구오락실 3",
-            "startTime": "20260929185000",
-            "endTime": "20260929210000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "스트릿 월드 파이터 : 디렉터스 워 스페셜",
-            "startTime": "20260929210000",
-            "endTime": "20260929220000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C00579",
-            "title": "스트릿 월드 파이터 : 디렉터스 워",
-            "startTime": "20260929220000",
-            "endTime": "20260930004000",
             "ott": "tving"
         }
     ],
@@ -93671,456 +93459,6 @@
             "ott": "tving"
         }
     ],
-    "C15347.tving": [
-        {
-            "channelid": "C15347",
-            "title": "메디컬 인사이트",
-            "startTime": "20260928090000",
-            "endTime": "20260928092700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "과학자들",
-            "startTime": "20260928092700",
-            "endTime": "20260928100100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "이프랭크",
-            "startTime": "20260928100100",
-            "endTime": "20260928104200",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "핫 클립 유레카",
-            "startTime": "20260928104200",
-            "endTime": "20260928110000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260928110000",
-            "endTime": "20260928112700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "황금 나침반",
-            "startTime": "20260928112700",
-            "endTime": "20260928120100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "눈에 띄는 그녀들 시즌8",
-            "startTime": "20260928120100",
-            "endTime": "20260928122800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "눈에 띄는 그녀들 시즌8",
-            "startTime": "20260928122800",
-            "endTime": "20260928130100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "다큐S 프라임",
-            "startTime": "20260928130100",
-            "endTime": "20260928132700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260928132700",
-            "endTime": "20260928135800",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "극한탐사 세계의 재난현장",
-            "startTime": "20260928135800",
-            "endTime": "20260928145900",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "더 나은 인생 올리브",
-            "startTime": "20260928145900",
-            "endTime": "20260928152500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "더 나은 인생 올리브",
-            "startTime": "20260928152500",
-            "endTime": "20260928160000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260928160000",
-            "endTime": "20260928162600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "몽골로 간 나무들은 어떤 숲이 되었을까?",
-            "startTime": "20260928162600",
-            "endTime": "20260928170600",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "몬스터 피쉬",
-            "startTime": "20260928170600",
-            "endTime": "20260928180000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "희망무지개",
-            "startTime": "20260928180000",
-            "endTime": "20260928190000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260928190000",
-            "endTime": "20260928192700",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "과학자들",
-            "startTime": "20260928192700",
-            "endTime": "20260928200100",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "영화로 보는 전쟁사",
-            "startTime": "20260928200100",
-            "endTime": "20260928210000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "다큐S 프라임",
-            "startTime": "20260928210000",
-            "endTime": "20260928213000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "와이언스",
-            "startTime": "20260928213000",
-            "endTime": "20260928220000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "몬스터 피쉬",
-            "startTime": "20260928220000",
-            "endTime": "20260928230000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260928230000",
-            "endTime": "20260928233000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "황금 나침반",
-            "startTime": "20260928233000",
-            "endTime": "20260929000000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "영화로 보는 전쟁사",
-            "startTime": "20260929000000",
-            "endTime": "20260929010000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "이프랭크",
-            "startTime": "20260929010000",
-            "endTime": "20260929014500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "핫 클립 유레카",
-            "startTime": "20260929014500",
-            "endTime": "20260929020000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "그대와 하이킹 S3",
-            "startTime": "20260929020000",
-            "endTime": "20260929023000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "그대와 하이킹 S3",
-            "startTime": "20260929023000",
-            "endTime": "20260929030000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260929030000",
-            "endTime": "20260929033000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "세계로 가는 K-헤리티지",
-            "startTime": "20260929033000",
-            "endTime": "20260929040000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "뷰티풀 코리아",
-            "startTime": "20260929040000",
-            "endTime": "20260929050000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "여행하기 좋은날 S3",
-            "startTime": "20260929050000",
-            "endTime": "20260929053000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "여행하기 좋은날 S3",
-            "startTime": "20260929053000",
-            "endTime": "20260929060000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "휴먼다큐 시장사람들",
-            "startTime": "20260929060000",
-            "endTime": "20260929063000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "휴먼다큐 시장사람들",
-            "startTime": "20260929063000",
-            "endTime": "20260929070000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260929070000",
-            "endTime": "20260929073000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "클래스 온",
-            "startTime": "20260929073000",
-            "endTime": "20260929080000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "몬스터 피쉬",
-            "startTime": "20260929080000",
-            "endTime": "20260929090000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "메디컬 인사이트",
-            "startTime": "20260929090000",
-            "endTime": "20260929093000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "다큐S 프라임",
-            "startTime": "20260929093000",
-            "endTime": "20260929100000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "뉴스멘터리 전쟁과 사람",
-            "startTime": "20260929100000",
-            "endTime": "20260929110000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260929110000",
-            "endTime": "20260929113000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "과학자들",
-            "startTime": "20260929113000",
-            "endTime": "20260929120000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "눈에 띄는 그녀들 S8",
-            "startTime": "20260929120000",
-            "endTime": "20260929123000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "눈에 띄는 그녀들 S8",
-            "startTime": "20260929123000",
-            "endTime": "20260929130000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "황금 나침반",
-            "startTime": "20260929130000",
-            "endTime": "20260929133000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260929133000",
-            "endTime": "20260929140000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "몬스터 피쉬",
-            "startTime": "20260929140000",
-            "endTime": "20260929150000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "더 나은 인생 올리브",
-            "startTime": "20260929150000",
-            "endTime": "20260929153000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "더 나은 인생 올리브",
-            "startTime": "20260929153000",
-            "endTime": "20260929160000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260929160000",
-            "endTime": "20260929163000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "글로벌 코리안",
-            "startTime": "20260929163000",
-            "endTime": "20260929170000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "천혜의 자연 발칸반도",
-            "startTime": "20260929170000",
-            "endTime": "20260929180000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "희망무지개",
-            "startTime": "20260929180000",
-            "endTime": "20260929190000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260929190000",
-            "endTime": "20260929193000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "수다학",
-            "startTime": "20260929193000",
-            "endTime": "20260929200000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "영화로 보는 전쟁사",
-            "startTime": "20260929200000",
-            "endTime": "20260929210000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "황금 나침반",
-            "startTime": "20260929210000",
-            "endTime": "20260929213000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "과학자들",
-            "startTime": "20260929213000",
-            "endTime": "20260929220000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "천혜의 자연 발칸반도",
-            "startTime": "20260929220000",
-            "endTime": "20260929230000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "사이언스 투데이",
-            "startTime": "20260929230000",
-            "endTime": "20260929233000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C15347",
-            "title": "몽골로 간 나무들은 어떤 숲이 되었을까?",
-            "startTime": "20260929233000",
-            "endTime": "20260930000000",
-            "ott": "tving"
-        }
-    ],
     "C00585.tving": [
         {
             "channelid": "C00585",
@@ -94288,6 +93626,218 @@
             "title": "K-트롯 진선미 환상의 무대",
             "startTime": "20260929230000",
             "endTime": "20260930003000",
+            "ott": "tving"
+        }
+    ],
+    "C17141.tving": [
+        {
+            "channelid": "C17141",
+            "title": "[당진 여행] 고두심이 좋아서",
+            "startTime": "20260928083000",
+            "endTime": "20260928093000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[김상혁X아유미] 신랑수업 2",
+            "startTime": "20260928093000",
+            "endTime": "20260928110000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[김상혁X김성수] 신랑수업 2",
+            "startTime": "20260928110000",
+            "endTime": "20260928123000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "탐정들의 영업비밀 충격실화극",
+            "startTime": "20260928123000",
+            "endTime": "20260928135000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "탐정들의 영업비밀 충격실화극",
+            "startTime": "20260928135000",
+            "endTime": "20260928151000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[북한 김부장]이제 만나러 갑니다",
+            "startTime": "20260928151000",
+            "endTime": "20260928165000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[핵을 멈출 기회] 이제 만나러 갑니다",
+            "startTime": "20260928165000",
+            "endTime": "20260928183000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[김창옥] 고두심이 좋아서",
+            "startTime": "20260928183000",
+            "endTime": "20260928193000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "탐정들의 영업비밀 충격실화극",
+            "startTime": "20260928193000",
+            "endTime": "20260928205000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[김정은X트럼프 재회?] 이제 만나러 갑니다",
+            "startTime": "20260928205000",
+            "endTime": "20260928223000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "이제 만나러 갑니다 닫힌 나라의 삶",
+            "startTime": "20260928223000",
+            "endTime": "20260929000000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[방금 놓친] 탐정들의 영업비밀",
+            "startTime": "20260929000000",
+            "endTime": "20260929021000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "탐정들의 영업비밀 충격실화극",
+            "startTime": "20260929021000",
+            "endTime": "20260929030000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "채널A 스페셜 극한 탐험 기상 이변의 현장",
+            "startTime": "20260929030000",
+            "endTime": "20260929033000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "채널A 스페셜 극한 탐험 기상 이변의 현장",
+            "startTime": "20260929033000",
+            "endTime": "20260929040000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "채널A 스페셜 구해줘 전원주택 시즌33",
+            "startTime": "20260929040000",
+            "endTime": "20260929050000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "채널A 스페셜 혹독한 알래스카 생존기 시즌12",
+            "startTime": "20260929050000",
+            "endTime": "20260929060000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "생존의 단서 블랙박스",
+            "startTime": "20260929060000",
+            "endTime": "20260929070000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[사위의 남자]  탐정들의 영업비밀",
+            "startTime": "20260929070000",
+            "endTime": "20260929083000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[김진] 고두심이 좋아서",
+            "startTime": "20260929083000",
+            "endTime": "20260929093000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[김상혁X김성수] 신랑수업 2",
+            "startTime": "20260929093000",
+            "endTime": "20260929110000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[조준현X조준호] 신랑수업 2",
+            "startTime": "20260929110000",
+            "endTime": "20260929123000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "탐정들의 영업비밀 충격실화극",
+            "startTime": "20260929123000",
+            "endTime": "20260929135000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "탐정들의 영업비밀 충격실화극",
+            "startTime": "20260929135000",
+            "endTime": "20260929151000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[핵을 멈출 기회] 이제 만나러 갑니다",
+            "startTime": "20260929151000",
+            "endTime": "20260929165000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[DMZ 도보탈북] 이제 만나러 갑니다",
+            "startTime": "20260929165000",
+            "endTime": "20260929183000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[충주 여행] 고두심이 좋아서",
+            "startTime": "20260929183000",
+            "endTime": "20260929194000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[동창회 비밀] 탐정들의 영업비밀",
+            "startTime": "20260929194000",
+            "endTime": "20260929215000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "탐정들의 영업비밀 충격실화극",
+            "startTime": "20260929215000",
+            "endTime": "20260929233000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C17141",
+            "title": "[방금 놓친] 타임슬립 천일야사",
+            "startTime": "20260929233000",
+            "endTime": "20260930011000",
             "ott": "tving"
         }
     ],
@@ -96845,6 +96395,323 @@
             "ott": "tving"
         }
     ],
+    "C51263.tving": [
+        {
+            "channelid": "C51263",
+            "title": "국회 책마당",
+            "startTime": "20260928090000",
+            "endTime": "20260928100000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "백년의 땀, 미래를 잇다",
+            "startTime": "20260928100000",
+            "endTime": "20260928110000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "한일 미식로드",
+            "startTime": "20260928110000",
+            "endTime": "20260928120000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "헌법을 만나다 내 인생의 1조 1항",
+            "startTime": "20260928120000",
+            "endTime": "20260928121000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "세계테마기행 2",
+            "startTime": "20260928121000",
+            "endTime": "20260928130000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "국회라이브1",
+            "startTime": "20260928130000",
+            "endTime": "20260928133000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "이야기를 담다",
+            "startTime": "20260928133000",
+            "endTime": "20260928140000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "법제사법위원회",
+            "startTime": "20260928140000",
+            "endTime": "20260928180000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "국회라이브6",
+            "startTime": "20260928180000",
+            "endTime": "20260928190000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "국회 책마당",
+            "startTime": "20260928190000",
+            "endTime": "20260928200000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "휴먼다큐 시장 사람들",
+            "startTime": "20260928200000",
+            "endTime": "20260928203000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "한국기행",
+            "startTime": "20260928203000",
+            "endTime": "20260928205000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "세계테마기행 2",
+            "startTime": "20260928205000",
+            "endTime": "20260928214500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "뉴스 945",
+            "startTime": "20260928214500",
+            "endTime": "20260928220000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "자연이 창조한 아름다움 세계의 국립공원",
+            "startTime": "20260928220000",
+            "endTime": "20260928230000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "지구 대서사 탄생과 멸종의 역사",
+            "startTime": "20260928230000",
+            "endTime": "20260929000000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "살아있는 지구, 경이로운 자연",
+            "startTime": "20260929000000",
+            "endTime": "20260929003000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "음악 여행자",
+            "startTime": "20260929003000",
+            "endTime": "20260929010000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "극한탐험 위기의 현장들",
+            "startTime": "20260929010000",
+            "endTime": "20260929020000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "백년의 땀, 미래를 잇다",
+            "startTime": "20260929020000",
+            "endTime": "20260929030000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "NATV 기후위기 특집다큐",
+            "startTime": "20260929030000",
+            "endTime": "20260929040000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "동물의 왕국 TOP 20",
+            "startTime": "20260929040000",
+            "endTime": "20260929050000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "세계테마기행 2",
+            "startTime": "20260929050000",
+            "endTime": "20260929060000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "최선규의 이제는 지방시대",
+            "startTime": "20260929060000",
+            "endTime": "20260929070000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "하늘과 땅 사이의 산티아고 길",
+            "startTime": "20260929070000",
+            "endTime": "20260929080000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "철길따라 세계여행",
+            "startTime": "20260929080000",
+            "endTime": "20260929083000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "국회의원 25시",
+            "startTime": "20260929083000",
+            "endTime": "20260929090000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "내 생활 속 헌법 2",
+            "startTime": "20260929090000",
+            "endTime": "20260929100000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "인생낭독: 인",
+            "startTime": "20260929100000",
+            "endTime": "20260929110000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "한일 미식로드",
+            "startTime": "20260929110000",
+            "endTime": "20260929120000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "헌법을 만나다 내 인생의 1조 1항",
+            "startTime": "20260929120000",
+            "endTime": "20260929121000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "세계테마기행 2",
+            "startTime": "20260929121000",
+            "endTime": "20260929130000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "국회라이브1",
+            "startTime": "20260929130000",
+            "endTime": "20260929133000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "마에스트로 명장",
+            "startTime": "20260929133000",
+            "endTime": "20260929140000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "연금개혁특별위원회",
+            "startTime": "20260929140000",
+            "endTime": "20260929180000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "국회라이브6",
+            "startTime": "20260929180000",
+            "endTime": "20260929190000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "내 생활 속 헌법 2",
+            "startTime": "20260929190000",
+            "endTime": "20260929200000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "국회의원 25시",
+            "startTime": "20260929200000",
+            "endTime": "20260929203000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "휴먼다큐 시장 사람들",
+            "startTime": "20260929203000",
+            "endTime": "20260929210000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "한국기행",
+            "startTime": "20260929210000",
+            "endTime": "20260929212000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "현장 리포트 (다시 쓰는 지방살이)",
+            "startTime": "20260929212000",
+            "endTime": "20260929214500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "뉴스 945",
+            "startTime": "20260929214500",
+            "endTime": "20260929220000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "살아있는 지구, 경이로운 자연",
+            "startTime": "20260929220000",
+            "endTime": "20260929223000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "아틀란티스 잃어버린 고대 도시의 발견",
+            "startTime": "20260929223000",
+            "endTime": "20260929233000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C51263",
+            "title": "음악 여행자",
+            "startTime": "20260929233000",
+            "endTime": "20260930000000",
+            "ott": "tving"
+        }
+    ],
     "C22041.tving": [
         {
             "channelid": "C22041",
@@ -97772,318 +97639,451 @@
             "ott": "tving"
         }
     ],
-    "C51263.tving": [
+    "C15347.tving": [
         {
-            "channelid": "C51263",
-            "title": "국회 책마당",
+            "channelid": "C15347",
+            "title": "메디컬 인사이트",
             "startTime": "20260928090000",
-            "endTime": "20260928100000",
+            "endTime": "20260928092700",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "백년의 땀, 미래를 잇다",
-            "startTime": "20260928100000",
+            "channelid": "C15347",
+            "title": "과학자들",
+            "startTime": "20260928092700",
+            "endTime": "20260928100100",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "이프랭크",
+            "startTime": "20260928100100",
+            "endTime": "20260928104200",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "핫 클립 유레카",
+            "startTime": "20260928104200",
             "endTime": "20260928110000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "한일 미식로드",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
             "startTime": "20260928110000",
-            "endTime": "20260928120000",
+            "endTime": "20260928112700",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "헌법을 만나다 내 인생의 1조 1항",
-            "startTime": "20260928120000",
-            "endTime": "20260928121000",
+            "channelid": "C15347",
+            "title": "황금 나침반",
+            "startTime": "20260928112700",
+            "endTime": "20260928120100",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "세계테마기행 2",
-            "startTime": "20260928121000",
-            "endTime": "20260928130000",
+            "channelid": "C15347",
+            "title": "눈에 띄는 그녀들 시즌8",
+            "startTime": "20260928120100",
+            "endTime": "20260928122800",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "국회라이브1",
-            "startTime": "20260928130000",
-            "endTime": "20260928133000",
+            "channelid": "C15347",
+            "title": "눈에 띄는 그녀들 시즌8",
+            "startTime": "20260928122800",
+            "endTime": "20260928130100",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "이야기를 담다",
-            "startTime": "20260928133000",
-            "endTime": "20260928140000",
+            "channelid": "C15347",
+            "title": "다큐S 프라임",
+            "startTime": "20260928130100",
+            "endTime": "20260928132700",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "법제사법위원회",
-            "startTime": "20260928140000",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
+            "startTime": "20260928132700",
+            "endTime": "20260928135800",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "극한탐사 세계의 재난현장",
+            "startTime": "20260928135800",
+            "endTime": "20260928145900",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "더 나은 인생 올리브",
+            "startTime": "20260928145900",
+            "endTime": "20260928152500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "더 나은 인생 올리브",
+            "startTime": "20260928152500",
+            "endTime": "20260928160000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
+            "startTime": "20260928160000",
+            "endTime": "20260928162600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "몽골로 간 나무들은 어떤 숲이 되었을까?",
+            "startTime": "20260928162600",
+            "endTime": "20260928170600",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "몬스터 피쉬",
+            "startTime": "20260928170600",
             "endTime": "20260928180000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "국회라이브6",
+            "channelid": "C15347",
+            "title": "희망무지개",
             "startTime": "20260928180000",
             "endTime": "20260928190000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "국회 책마당",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
             "startTime": "20260928190000",
-            "endTime": "20260928200000",
+            "endTime": "20260928192700",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "휴먼다큐 시장 사람들",
-            "startTime": "20260928200000",
-            "endTime": "20260928203000",
+            "channelid": "C15347",
+            "title": "과학자들",
+            "startTime": "20260928192700",
+            "endTime": "20260928200100",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "한국기행",
-            "startTime": "20260928203000",
-            "endTime": "20260928205000",
+            "channelid": "C15347",
+            "title": "영화로 보는 전쟁사",
+            "startTime": "20260928200100",
+            "endTime": "20260928210000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "세계테마기행 2",
-            "startTime": "20260928205000",
-            "endTime": "20260928214500",
+            "channelid": "C15347",
+            "title": "다큐S 프라임",
+            "startTime": "20260928210000",
+            "endTime": "20260928213000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "뉴스 945",
-            "startTime": "20260928214500",
+            "channelid": "C15347",
+            "title": "와이언스",
+            "startTime": "20260928213000",
             "endTime": "20260928220000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "자연이 창조한 아름다움 세계의 국립공원",
+            "channelid": "C15347",
+            "title": "몬스터 피쉬",
             "startTime": "20260928220000",
             "endTime": "20260928230000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "지구 대서사 탄생과 멸종의 역사",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
             "startTime": "20260928230000",
+            "endTime": "20260928233000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "황금 나침반",
+            "startTime": "20260928233000",
             "endTime": "20260929000000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "살아있는 지구, 경이로운 자연",
+            "channelid": "C15347",
+            "title": "영화로 보는 전쟁사",
             "startTime": "20260929000000",
-            "endTime": "20260929003000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C51263",
-            "title": "음악 여행자",
-            "startTime": "20260929003000",
             "endTime": "20260929010000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "극한탐험 위기의 현장들",
+            "channelid": "C15347",
+            "title": "이프랭크",
             "startTime": "20260929010000",
+            "endTime": "20260929014500",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "핫 클립 유레카",
+            "startTime": "20260929014500",
             "endTime": "20260929020000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "백년의 땀, 미래를 잇다",
+            "channelid": "C15347",
+            "title": "그대와 하이킹 S3",
             "startTime": "20260929020000",
+            "endTime": "20260929023000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "그대와 하이킹 S3",
+            "startTime": "20260929023000",
             "endTime": "20260929030000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "NATV 기후위기 특집다큐",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
             "startTime": "20260929030000",
+            "endTime": "20260929033000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "세계로 가는 K-헤리티지",
+            "startTime": "20260929033000",
             "endTime": "20260929040000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "동물의 왕국 TOP 20",
+            "channelid": "C15347",
+            "title": "뷰티풀 코리아",
             "startTime": "20260929040000",
             "endTime": "20260929050000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "세계테마기행 2",
+            "channelid": "C15347",
+            "title": "여행하기 좋은날 S3",
             "startTime": "20260929050000",
+            "endTime": "20260929053000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "여행하기 좋은날 S3",
+            "startTime": "20260929053000",
             "endTime": "20260929060000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "최선규의 이제는 지방시대",
+            "channelid": "C15347",
+            "title": "휴먼다큐 시장사람들",
             "startTime": "20260929060000",
+            "endTime": "20260929063000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "휴먼다큐 시장사람들",
+            "startTime": "20260929063000",
             "endTime": "20260929070000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "하늘과 땅 사이의 산티아고 길",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
             "startTime": "20260929070000",
+            "endTime": "20260929073000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "클래스 온",
+            "startTime": "20260929073000",
             "endTime": "20260929080000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "철길따라 세계여행",
+            "channelid": "C15347",
+            "title": "몬스터 피쉬",
             "startTime": "20260929080000",
-            "endTime": "20260929083000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C51263",
-            "title": "국회의원 25시",
-            "startTime": "20260929083000",
             "endTime": "20260929090000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "내 생활 속 헌법 2",
+            "channelid": "C15347",
+            "title": "메디컬 인사이트",
             "startTime": "20260929090000",
+            "endTime": "20260929093000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "다큐S 프라임",
+            "startTime": "20260929093000",
             "endTime": "20260929100000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "인생낭독: 인",
+            "channelid": "C15347",
+            "title": "뉴스멘터리 전쟁과 사람",
             "startTime": "20260929100000",
             "endTime": "20260929110000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "한일 미식로드",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
             "startTime": "20260929110000",
+            "endTime": "20260929113000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "과학자들",
+            "startTime": "20260929113000",
             "endTime": "20260929120000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "헌법을 만나다 내 인생의 1조 1항",
+            "channelid": "C15347",
+            "title": "눈에 띄는 그녀들 S8",
             "startTime": "20260929120000",
-            "endTime": "20260929121000",
+            "endTime": "20260929123000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "세계테마기행 2",
-            "startTime": "20260929121000",
+            "channelid": "C15347",
+            "title": "눈에 띄는 그녀들 S8",
+            "startTime": "20260929123000",
             "endTime": "20260929130000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "국회라이브1",
+            "channelid": "C15347",
+            "title": "황금 나침반",
             "startTime": "20260929130000",
             "endTime": "20260929133000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "마에스트로 명장",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
             "startTime": "20260929133000",
             "endTime": "20260929140000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "연금개혁특별위원회",
+            "channelid": "C15347",
+            "title": "몬스터 피쉬",
             "startTime": "20260929140000",
+            "endTime": "20260929150000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "더 나은 인생 올리브",
+            "startTime": "20260929150000",
+            "endTime": "20260929153000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "더 나은 인생 올리브",
+            "startTime": "20260929153000",
+            "endTime": "20260929160000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
+            "startTime": "20260929160000",
+            "endTime": "20260929163000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "글로벌 코리안",
+            "startTime": "20260929163000",
+            "endTime": "20260929170000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "천혜의 자연 발칸반도",
+            "startTime": "20260929170000",
             "endTime": "20260929180000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "국회라이브6",
+            "channelid": "C15347",
+            "title": "희망무지개",
             "startTime": "20260929180000",
             "endTime": "20260929190000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "내 생활 속 헌법 2",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
             "startTime": "20260929190000",
+            "endTime": "20260929193000",
+            "ott": "tving"
+        },
+        {
+            "channelid": "C15347",
+            "title": "수다학",
+            "startTime": "20260929193000",
             "endTime": "20260929200000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "국회의원 25시",
+            "channelid": "C15347",
+            "title": "영화로 보는 전쟁사",
             "startTime": "20260929200000",
-            "endTime": "20260929203000",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C51263",
-            "title": "휴먼다큐 시장 사람들",
-            "startTime": "20260929203000",
             "endTime": "20260929210000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "한국기행",
+            "channelid": "C15347",
+            "title": "황금 나침반",
             "startTime": "20260929210000",
-            "endTime": "20260929212000",
+            "endTime": "20260929213000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "현장 리포트 (다시 쓰는 지방살이)",
-            "startTime": "20260929212000",
-            "endTime": "20260929214500",
-            "ott": "tving"
-        },
-        {
-            "channelid": "C51263",
-            "title": "뉴스 945",
-            "startTime": "20260929214500",
+            "channelid": "C15347",
+            "title": "과학자들",
+            "startTime": "20260929213000",
             "endTime": "20260929220000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "살아있는 지구, 경이로운 자연",
+            "channelid": "C15347",
+            "title": "천혜의 자연 발칸반도",
             "startTime": "20260929220000",
-            "endTime": "20260929223000",
+            "endTime": "20260929230000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "아틀란티스 잃어버린 고대 도시의 발견",
-            "startTime": "20260929223000",
+            "channelid": "C15347",
+            "title": "사이언스 투데이",
+            "startTime": "20260929230000",
             "endTime": "20260929233000",
             "ott": "tving"
         },
         {
-            "channelid": "C51263",
-            "title": "음악 여행자",
+            "channelid": "C15347",
+            "title": "몽골로 간 나무들은 어떤 숲이 되었을까?",
             "startTime": "20260929233000",
             "endTime": "20260930000000",
             "ott": "tving"

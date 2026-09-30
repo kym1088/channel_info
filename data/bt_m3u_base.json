@@ -783,14 +783,6 @@
         "genrenm": "드라마/예능"
     },
     {
-        "channelid": "S20",
-        "channelnm": "K POP",
-        "channelimg": "https://static.cloud.sbs.co.kr/common/img/sbsplayBig_logo.png",
-        "ott": "bc_sbs",
-        "genrenm": "드라마/예능",
-        "json_name": ""
-    },
-    {
         "channelid": "C00611",
         "channelnm": "LIFETIME",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0100/C00611.png",

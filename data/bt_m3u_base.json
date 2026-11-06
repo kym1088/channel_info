@@ -1680,5 +1680,12 @@
         "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
         "ott": "wavve",
         "genrenm": "-"
+    },
+    {
+        "channelid": "C52246",
+        "channelnm": "ATP 투어",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251202/1446/C52246.png",
+        "ott": "tving",
+        "genrenm": "-"
     }
 ]

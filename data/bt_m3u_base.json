@@ -1668,13 +1668,6 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3544",
-        "channelnm": "웨이브 필드캠 정주행",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
         "channelid": "S33",
         "channelnm": "KPGA 하이라이트",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
@@ -1682,9 +1675,37 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C52246",
-        "channelnm": "ATP 투어",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251202/1446/C52246.png",
+        "channelid": "C3544",
+        "channelnm": "웨이브 필드캠 정주행",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C52123",
+        "channelnm": "2026 KBO 한국시리즈",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20261101/1130/C52123.png",
+        "ott": "tving",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C51850",
+        "channelnm": "2026 KBO 한국시리즈",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20261101/1128/C51850.png",
+        "ott": "tving",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C52207",
+        "channelnm": "2026-2027 KCC 프로농구",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260922/2332/C52207.png",
+        "ott": "tving",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C51651",
+        "channelnm": "WTA 투어 월드피드",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0104/C51651.png",
         "ott": "tving",
         "genrenm": "-"
     }

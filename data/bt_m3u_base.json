@@ -874,13 +874,6 @@
         "genrenm": "스포츠"
     },
     {
-        "channelid": "C3541",
-        "channelnm": "웨이브 필드캠",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3541_logo_20260827145601.png",
-        "ott": "wavve",
-        "genrenm": "스포츠"
-    },
-    {
         "channelid": "J7801",
         "channelnm": "AsportsTV",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J7801_logo_20260901170928.png",
@@ -1661,16 +1654,16 @@
         "genrenm": "정주행 채널"
     },
     {
-        "channelid": "S32",
-        "channelnm": "KLPGA 하이라이트",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/S32_logo_20261015175336.png",
+        "channelid": "C3544",
+        "channelnm": "웨이브 필드캠 정주행",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
         "ott": "wavve",
         "genrenm": "-"
     },
     {
-        "channelid": "C3544",
-        "channelnm": "웨이브 필드캠 정주행",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
+        "channelid": "S32",
+        "channelnm": "KLPGA 하이라이트",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S32_logo_20261015175336.png",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1679,34 +1672,6 @@
         "channelnm": "KPGA 하이라이트",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
         "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C51850",
-        "channelnm": "2026 KBO 한국시리즈",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20261101/1128/C51850.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52311",
-        "channelnm": "2026 KBO 리그 팬덤중계",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0047/C52311.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52310",
-        "channelnm": "2026 KBO 리그 팬덤중계",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0045/C52310.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52207",
-        "channelnm": "2026-2027 KCC 프로농구",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260922/2332/C52207.png",
-        "ott": "tving",
         "genrenm": "-"
     }
 ]

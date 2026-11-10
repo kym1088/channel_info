@@ -811,13 +811,6 @@
         "genrenm": "스포츠"
     },
     {
-        "channelid": "S29",
-        "channelnm": "Wavve Golf 1",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/S29_main_20260413100555.jpg",
-        "ott": "wavve",
-        "genrenm": "스포츠"
-    },
-    {
         "channelid": "J4501",
         "channelnm": "바둑TV",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/J4501_logo_20251111102909.png",
@@ -849,13 +842,6 @@
         "channelid": "F9901",
         "channelnm": "OGN",
         "channelimg": "https://image.wavve.com/BMS/Channelimage30/image/F9901_Img_20230926133826.jpg",
-        "ott": "wavve",
-        "genrenm": "스포츠"
-    },
-    {
-        "channelid": "S30",
-        "channelnm": "Wavve Golf 2",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/S30_main_20260413100525.jpg",
         "ott": "wavve",
         "genrenm": "스포츠"
     },
@@ -1647,6 +1633,13 @@
         "genrenm": "정주행 채널"
     },
     {
+        "channelid": "C3544",
+        "channelnm": "웨이브 필드캠 정주행",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
         "channelid": "S32",
         "channelnm": "KLPGA 하이라이트",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/S32_logo_20261015175336.png",
@@ -1657,13 +1650,6 @@
         "channelid": "S33",
         "channelnm": "KPGA 하이라이트",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C3544",
-        "channelnm": "웨이브 필드캠 정주행",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
         "ott": "wavve",
         "genrenm": "-"
     }

@@ -360,6 +360,13 @@
         "genrenm": "종편/보도"
     },
     {
+        "channelid": "J5101",
+        "channelnm": "헬로tv뉴스",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/J5101_logo_20260806134015.png",
+        "ott": "wavve",
+        "genrenm": "종편/보도"
+    },
+    {
         "channelid": "C15347",
         "channelnm": "YTN사이언스",
         "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241113/0020/C15347.png",
@@ -1640,13 +1647,6 @@
         "genrenm": "-"
     },
     {
-        "channelid": "S33",
-        "channelnm": "KPGA 하이라이트",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
         "channelid": "C3544",
         "channelnm": "웨이브 필드캠 정주행",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
@@ -1654,9 +1654,9 @@
         "genrenm": "-"
     },
     {
-        "channelid": "F8403",
-        "channelnm": "멜론뮤직어워드 VOD",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/F8403_logo_20251118101942.png",
+        "channelid": "S33",
+        "channelnm": "KPGA 하이라이트",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
         "ott": "wavve",
         "genrenm": "-"
     }

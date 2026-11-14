@@ -1640,13 +1640,6 @@
         "genrenm": "정주행 채널"
     },
     {
-        "channelid": "C3544",
-        "channelnm": "웨이브 필드캠 정주행",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
         "channelid": "S32",
         "channelnm": "KLPGA 하이라이트",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/S32_logo_20261015175336.png",
@@ -1658,6 +1651,20 @@
         "channelnm": "KPGA 하이라이트",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
         "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C3544",
+        "channelnm": "웨이브 필드캠 정주행",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C52207",
+        "channelnm": "2026-2027 KCC 프로농구",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260922/2332/C52207.png",
+        "ott": "tving",
         "genrenm": "-"
     }
 ]

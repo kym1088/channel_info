@@ -1640,9 +1640,9 @@
         "genrenm": "정주행 채널"
     },
     {
-        "channelid": "F8404",
-        "channelnm": "2026 멜론뮤직어워드",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/F8404_logo_20261104165205.png",
+        "channelid": "C3544",
+        "channelnm": "웨이브 필드캠 정주행",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1654,13 +1654,6 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3544",
-        "channelnm": "웨이브 필드캠 정주행",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
         "channelid": "S33",
         "channelnm": "KPGA 하이라이트",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
@@ -1668,16 +1661,9 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C52206",
-        "channelnm": "2026-2027 KCC 프로농구",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260922/2331/C52206.png",
-        "ott": "tving",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C52207",
-        "channelnm": "2026-2027 KCC 프로농구",
-        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260922/2332/C52207.png",
+        "channelid": "C51650",
+        "channelnm": "WTA 투어",
+        "channelimg": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0103/C51650.png",
         "ott": "tving",
         "genrenm": "-"
     }

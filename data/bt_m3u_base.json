@@ -1411,21 +1411,7 @@
     {
         "channelid": "C3538",
         "channelnm": "텐트 밖은 유럽",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3538_main_20260722213220.jpg",
-        "ott": "wavve",
-        "genrenm": "정주행 채널"
-    },
-    {
-        "channelid": "C3540",
-        "channelnm": "텐트 밖은 유럽: 로맨틱 이탈리아",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3540_main_20260722214249.jpg",
-        "ott": "wavve",
-        "genrenm": "정주행 채널"
-    },
-    {
-        "channelid": "C3539",
-        "channelnm": "텐트 밖은 유럽: 노르웨이",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3539_main_20260722214117.jpg",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3538_main_20261118104040.jpg",
         "ott": "wavve",
         "genrenm": "정주행 채널"
     },
@@ -1465,23 +1451,9 @@
         "genrenm": "정주행 채널"
     },
     {
-        "channelid": "C3535",
-        "channelnm": "식스센스: 시티투어2",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3535_main_20260722212804.jpg",
-        "ott": "wavve",
-        "genrenm": "정주행 채널"
-    },
-    {
         "channelid": "C3532",
-        "channelnm": "식스센스 시즌1",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3532_main_20260722211856.jpg",
-        "ott": "wavve",
-        "genrenm": "정주행 채널"
-    },
-    {
-        "channelid": "C3533",
-        "channelnm": "식스센스 시즌2",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3533_main_20260722212104.jpg",
+        "channelnm": "식스센스",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3532_main_20261118103347.jpg",
         "ott": "wavve",
         "genrenm": "정주행 채널"
     },
@@ -1515,29 +1487,8 @@
     },
     {
         "channelid": "C3528",
-        "channelnm": "대탈출 시즌1",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3528_main_20260722112147.jpg",
-        "ott": "wavve",
-        "genrenm": "정주행 채널"
-    },
-    {
-        "channelid": "C3529",
-        "channelnm": "대탈출 시즌2",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3529_main_20260722113126.jpg",
-        "ott": "wavve",
-        "genrenm": "정주행 채널"
-    },
-    {
-        "channelid": "C3530",
-        "channelnm": "대탈출 시즌3",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3530_main_20260722211719.jpg",
-        "ott": "wavve",
-        "genrenm": "정주행 채널"
-    },
-    {
-        "channelid": "C3531",
-        "channelnm": "대탈출 시즌4",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3531_main_20260722211641.jpg",
+        "channelnm": "대탈출",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3528_main_20261118105419.jpg",
         "ott": "wavve",
         "genrenm": "정주행 채널"
     },
@@ -1571,15 +1522,8 @@
     },
     {
         "channelid": "C3536",
-        "channelnm": "무쇠소녀단 시즌1",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3536_main_20260722212928.jpg",
-        "ott": "wavve",
-        "genrenm": "정주행 채널"
-    },
-    {
-        "channelid": "C3537",
-        "channelnm": "무쇠소녀단 시즌2",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3537_main_20260722213053.jpg",
+        "channelnm": "무쇠소녀단",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3536_main_20261118104024.jpg",
         "ott": "wavve",
         "genrenm": "정주행 채널"
     },
@@ -1647,16 +1591,16 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3544",
-        "channelnm": "웨이브 필드캠 정주행",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
+        "channelid": "S33",
+        "channelnm": "KPGA 하이라이트",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
         "ott": "wavve",
         "genrenm": "-"
     },
     {
-        "channelid": "S33",
-        "channelnm": "KPGA 하이라이트",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
+        "channelid": "C3544",
+        "channelnm": "웨이브 필드캠 정주행",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
         "ott": "wavve",
         "genrenm": "-"
     }

@@ -1654,16 +1654,16 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3554",
-        "channelnm": "너의 목소리가 보여",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3554_main_20261115163011.jpg",
+        "channelid": "C3551",
+        "channelnm": "비밀의 숲",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3551_main_20261115162359.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },
     {
-        "channelid": "C3551",
-        "channelnm": "비밀의 숲",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3551_main_20261115162359.jpg",
+        "channelid": "C3554",
+        "channelnm": "너의 목소리가 보여",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3554_main_20261115163011.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1675,44 +1675,9 @@
         "genrenm": "-"
     },
     {
-        "channelid": "S33",
-        "channelnm": "KPGA 하이라이트",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C3544",
-        "channelnm": "웨이브 필드캠 정주행",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
         "channelid": "C3549",
         "channelnm": "또 오해영",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3549_main_20261114204556.jpg",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C3553",
-        "channelnm": "은밀한 감사",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3553_main_20261116172515.jpg",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C3556",
-        "channelnm": "커플팰리스",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3556_main_20261115163645.jpg",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C3555",
-        "channelnm": "스트릿댄스 걸스 파이터",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3555_main_20261115163351.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1724,6 +1689,20 @@
         "genrenm": "-"
     },
     {
+        "channelid": "S33",
+        "channelnm": "KPGA 하이라이트",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C3553",
+        "channelnm": "은밀한 감사",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3553_main_20261116172515.jpg",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
         "channelid": "C3548",
         "channelnm": "대한민국에서 건물주 되는 법",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3548_main_20261114141459.jpg",
@@ -1731,9 +1710,30 @@
         "genrenm": "-"
     },
     {
+        "channelid": "C3556",
+        "channelnm": "커플팰리스",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3556_main_20261115163645.jpg",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C3544",
+        "channelnm": "웨이브 필드캠 정주행",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
         "channelid": "S32",
         "channelnm": "KLPGA 하이라이트",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/S32_logo_20261015175336.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C3555",
+        "channelnm": "스트릿댄스 걸스 파이터",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3555_main_20261115163351.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },

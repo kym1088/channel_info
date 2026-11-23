@@ -1661,9 +1661,23 @@
         "genrenm": "-"
     },
     {
+        "channelid": "C3552",
+        "channelnm": "오 나의 귀신님",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3552_main_20261115162508.jpg",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
         "channelid": "C3554",
         "channelnm": "너의 목소리가 보여",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3554_main_20261115163011.jpg",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "S32",
+        "channelnm": "KLPGA 하이라이트",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S32_logo_20261015175336.png",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1682,16 +1696,9 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3552",
-        "channelnm": "오 나의 귀신님",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3552_main_20261115162508.jpg",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "S33",
-        "channelnm": "KPGA 하이라이트",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
+        "channelid": "C3556",
+        "channelnm": "커플팰리스",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3556_main_20261115163645.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1703,20 +1710,6 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3548",
-        "channelnm": "대한민국에서 건물주 되는 법",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3548_main_20261114141459.jpg",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C3556",
-        "channelnm": "커플팰리스",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3556_main_20261115163645.jpg",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
         "channelid": "C3544",
         "channelnm": "웨이브 필드캠 정주행",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
@@ -1724,9 +1717,16 @@
         "genrenm": "-"
     },
     {
-        "channelid": "S32",
-        "channelnm": "KLPGA 하이라이트",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/S32_logo_20261015175336.png",
+        "channelid": "S33",
+        "channelnm": "KPGA 하이라이트",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S33_logo_20261015175544.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C3548",
+        "channelnm": "대한민국에서 건물주 되는 법",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3548_main_20261114141459.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },

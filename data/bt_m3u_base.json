@@ -1647,23 +1647,16 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3550",
-        "channelnm": "미생",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3550_main_20261115155105.jpg",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
-        "channelid": "C3552",
-        "channelnm": "오 나의 귀신님",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3552_main_20261115162508.jpg",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
         "channelid": "C3547",
         "channelnm": "김비서가 왜 그럴까",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3547_main_20261114140410.jpg",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C3550",
+        "channelnm": "미생",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3550_main_20261115155105.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1675,6 +1668,13 @@
         "genrenm": "-"
     },
     {
+        "channelid": "C3549",
+        "channelnm": "또 오해영",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3549_main_20261114204556.jpg",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
         "channelid": "C3554",
         "channelnm": "너의 목소리가 보여",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3554_main_20261115163011.jpg",
@@ -1682,16 +1682,16 @@
         "genrenm": "-"
     },
     {
-        "channelid": "S32",
-        "channelnm": "KLPGA 하이라이트",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/S32_logo_20261015175336.png",
+        "channelid": "C3553",
+        "channelnm": "은밀한 감사",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3553_main_20261116172515.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },
     {
-        "channelid": "C3549",
-        "channelnm": "또 오해영",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3549_main_20261114204556.jpg",
+        "channelid": "C3552",
+        "channelnm": "오 나의 귀신님",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3552_main_20261115162508.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },
@@ -1703,13 +1703,6 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3548",
-        "channelnm": "대한민국에서 건물주 되는 법",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3548_main_20261114141459.jpg",
-        "ott": "wavve",
-        "genrenm": "-"
-    },
-    {
         "channelid": "C3544",
         "channelnm": "웨이브 필드캠 정주행",
         "channelimg": "https://image.wavve.com/channel_mgmt/image/C3544_logo_20261015174932.png",
@@ -1717,9 +1710,16 @@
         "genrenm": "-"
     },
     {
-        "channelid": "C3553",
-        "channelnm": "은밀한 감사",
-        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3553_main_20261116172515.jpg",
+        "channelid": "S32",
+        "channelnm": "KLPGA 하이라이트",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/S32_logo_20261015175336.png",
+        "ott": "wavve",
+        "genrenm": "-"
+    },
+    {
+        "channelid": "C3548",
+        "channelnm": "대한민국에서 건물주 되는 법",
+        "channelimg": "https://image.wavve.com/channel_mgmt/image/C3548_main_20261114141459.jpg",
         "ott": "wavve",
         "genrenm": "-"
     },
